@@ -1,0 +1,2220 @@
+Dataset: Hoverfly records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Macro-moth distribution records for the UK from Butterfly Conservation, up to 2019 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Snow Entomological Museum Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum Aarhus Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural Resources Wales Regional Data : Mid-Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2020-2024 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by JNCC 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: AntWeb 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bee Biology and Systematics Laboratory 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Global soil microbiomes: A new frontline of biome-ecology research 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LERN Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SER Species-based Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Paleobiology Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caddisfly (Trichoptera) records from Britain (excluding Northern Ireland and Channel Islands) up to July 2024 from the National Trichoptera (Caddisfly) Recording Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Terrestrial and limnic invertebrates systematic collection, NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UK Butterfly Monitoring Scheme (UKBMS) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: VectorBase (Bioinformatics Resource for Invertebrate Vectors of Human Pathogens) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Harold W. Manter Laboratory of Parasitology Collection (HWML) Parasite Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: izeltlabuak.hu observations validated to species level 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Shropshire Ecological Data Network database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: eButterfly Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Tartu Natural History Museum and Botanical Garden Zooloogical Collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ICES Zoobenthos Community dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Butterfly distribution records for the UK from Butterfly Conservation, up to 2019 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Species data for Scottish waters held and managed by Scottish Natural Heritage, derived from benthic surveys 1993 to 2018 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Lepidoptera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BRERC Notable Species records within the last 10 years 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ground Beetle Recording Scheme - data verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2010-2014 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INSDC Host Organism Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Record species dataset covering Cheshire, Halton, Warrington & Wirral 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Minnesota Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dorset Sites of Nature Conservation Interest (SNCI) species records pre 2000 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Lund University Biological Museum - Insect collections Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: PANGAEA - Data from various sources 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2000-2009 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Odonata Central 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Diptera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Cainozoic Mollusca 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ladybird Survey of the UK 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Academy of Natural Sciences Entomology Collection – OrthopNet 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2015-2019 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: West Wales Online Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bibliographie de la faune, la flore et la fonge de France métropolitaine et outre-mer-Bibliographique de la faune, la flore et la fonge de France métropolitaine et outre-mer 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Academy of Natural Sciences Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northern Arizona University - Arthropod Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Environment Agency England and Wales (2007) freshwater invertebrate species (single species families) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UMZC Zoological Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG Fungus, Lichen & Lower Plants Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Coleoptera collection (EC) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Instituto de Investigación CIBIO, Universidad de Alicante: CEUA 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Hymenoptera collection of National Museum of Nature and Science 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ECatSym: Electronic World Catalog of Symphyta 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: KiEco Marine Ecology: Marine Benthic Invertebrates 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Welsh Invertebrate Database (WID) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine data from Natural Resources Wales (NRW) Technical Support (Research & Monitoring) Contracts, Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Porcupine Marine Natural History Society Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Diptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NDFF Butterfly Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bee and hoverfly species data from the UK Pollinator Monitoring Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tachinid Recording Scheme  - GB and Ireland records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2022 (Norfolk) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomological collections (MHNF-ENTOMO) of Musée d'histoire naturelle Fribourg 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Broward College Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: All Ireland Marsh Fritillary Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Odonata records for Dumfries and Galloway 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Global Gracillariidae 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG Falk and Jones Cairngorms records Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: St Andrews BioBlitz 2014 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Palaearctic species of Charipinae (Hymenoptera, Figitidae): two new species, synthesis and identification key 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dipterists Forum: Project - Conopidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BCE butterfly data in and around Nothern Italy 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MoJ BioBlitz 2019 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Coleoptera: Silphidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Black Wood of Rannoch SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MoJ BioBlitz April - May 2017 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Conopidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Other Insects (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aculeate Hymenoptera records extracted from Invertebrate Site Register for Scotland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2017 North Devon Area of Outstanding Natural Beauty (AONB) Combe Martin Devon Bioblitz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The first checklist of the tribe Olethreutini (Lepidoptera: Tortricidae: Olethreutinae) of Thailand 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An annotated catalogue of Elachistinae of the World (Lepidoptera: Gelechioidea: Elachistidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleoptera, Lepidoptera, Hymenoptera, Diptera Collection (MHNG-ENTO) of Muséum d'histoire naturelle de Genève 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic review of the genus Parastenolechia Kanazawa (Lepidoptera, Gelechiidae, Litini) from Mainland China, with descriptions of six new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An actualized catalogue of the Psychodidae (Diptera) of Mexico and their known distribution by state 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ZFMK Odonata collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DBRC Hemiptera species records 1969 to 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The West-Palearctic species of the genus Tonnoiriella Vaillant, 1971 (Diptera: Psychodidae, Psychodinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cladotanytarsus Kieffer (Diptera: Chironomidae): several distinctive species reviewed on the basis of records from Canada and USA 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: South Dakota State University, The Severin-McDaniel Insect Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dipterists Forum - Recording Scheme - Stilt & Stalk Flies 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: S. Knutelski Weevil Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: World Museum Xoridinae (Ichneumonidae) from MIMSY up to December 2022 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ICES historical plankton dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arthropod Collection (MHNG-ARTO) of Muséum d'histoire naturelle de la Ville de Genève 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera identified from the Bellot Street site, Greenwich, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Bumblebee Walk 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera Palaearctic (Luomus) (PC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Abbey Craig SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INNS Data: All Taxa (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Shieldbug and allied species records, from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Unassessed data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Homoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Miscellaneous records held by BIS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Newly reported genus Batracomorphus Lewis (Hemiptera: Cicadellidae: Iassinae) from Pakistan with description of a new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Diptera Collection of Richard Frey (MZH/Luomus, Helsinki, Finland) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Hymenoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dragonfly Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lampyroidea maculata (Coleoptera: Lampyridae): A new species of lampyrid from Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Catalogue of Afrotropical Bees 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dung Beetles of the Western Palaearctic 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: VIT - Lepidotheca (The Natural History Museum of Álava) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum - Field Weeks 2000 & 2001 (Cornwall & Devon) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Marine Data from The Wildlife Trusts (TWT) Dive Team; 2014-2018 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Sawflies of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums BRC: Ladybirds 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Shire Group IDB species data 2004 to present 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fleas (Siphonaptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Swiss Psyllid (Hemiptera) Collections - Basel 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Jewel Bulk Samples Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2014 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums BRC: Chrysomelidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection entomologique Pierre Lachiver 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Holy Loch Food Web 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: West Palaearctic species of Euura Newman, 1837 (Hymenoptera, Tenthredinidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A monograph of Afrotropical and Mediterranean Derelomus Schoenherr, 1825 (Coleoptera: Curculionidae) with the descriptions of 14 new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Carabidae of Wales and England 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Diptera: Tephritoidea + Conopidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection Strepsiptera SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Rhagionidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Stick insects of Sulawesi, Peleng and the Sula Islands, Indonesia- a review including checklists of species and descriptions of new taxa (Insecta: Phasmatodea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Crathie Wood SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - General Public Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HeathNet data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Host associations of Melanterius Erichson (Coleoptera: Curculionidae: Cleogonini), with a diagnosis and delimitation of the genus and description of five new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NBIS Records to December 2016 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Hymenoptera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Paleobiology Specimen Records (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mississippi Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Butterfly distributions for Scotland  from Butterfly Conservation and the Biological Records Centre 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DASSH Data Archive Centre - Statutory Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A catalogue of the types of Diapriinae (Hymenoptera, Diapriidae) at the Natural History Museum, London 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Heleomyzidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Taxonomic notes on the genera Scatella and Scatophila (Diptera: Ephydridae) with a remark on Trixoscelis chilensis (Trixoscelididae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the genus Calofulcinia Giglio-Tos (Mantodea: Nanomantidae: Fulciniinae) in Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Hemiptera Records (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Lindean Reservoir SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bumblebees of the hypnorum-complex world-wide including two new near-cryptic species (Hymenoptera: Apidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lonchaeidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Steve Lane - Warwickshire dataset and Personal records from various vice-counties 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic changes in Ichneumonoidea (Hymenoptera), and notes on certain type specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Holarktische Bienenarten - autochthon, eingeführt, eingeschleppt 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Review of the genus Tetralicia (Hemiptera: Aleyrodidae) and description of two new species of whiteflies found on avocado trees in Peru 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A key to species of Hercinothrips, with one new species, and a neotype designation for H. trilineatus (Priesner) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Zum Vorkommen zweier heimlicher Blattkäfer in der Schweiz: Cryptocephalus imperialis (Laicharting, 1781) und C. octomaculatus Rossi, 1790 (Coleoptera, Chrysomelidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI potential extension - 2016 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Mecoptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Additions to the British list of Megaselia Rondani (Diptera: Phoridae), including two new species, from the crowns of ancient pollarded trees 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Reassessment of known fossil Pyraloidea (Lepidoptera) with descriptions of the oldest fossil pyraloid and a crambid larva in Baltic amber 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A new species of Dinotoperla Tillyard, 1921 from the Shoalhaven Catchment, New South Wales, Australia (Plecoptera: Gripopterygidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Entomology, Oslo (O) UiO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fife Nature Records Centre Combined Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Nearctic species of Asindulum Latreille and Macrorrhyncha Winnertz (Diptera: Keroplatidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Estonian Museum of Natural History Department of Zoology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Seasearch Marine Surveys in England 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Coleoptera: Oedemeridae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Dunhog Moss SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Illinois Natural History Survey Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nine new species of Agromyzidae from North Carolina, USA, with new host and distribution records for additional species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Rinns of Islay SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NABU|naturgucker 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI - 2010 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Crannach Wood SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Fannich Hills SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Different continents, same species? Resolving the taxonomy of some Holarctic Ancylis Hübner (Lepidoptera: Tortricidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Empria and Monsoma in Japan 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Loch Lubnaig Marshes SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A new genus Viperinus Park with descriptions of two new species, and two new species of the genus Protolychnis Meyrick, 1925 (Lepidoptera, Gelechioidea, Lecithoceridae) in Kenya and Tanzania, with a checklist of the world species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New records of leaf-mining Tortricidae (Lepidoptera) in North America, with the description of a new species of Grapholita 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Melanostoma mellarium (Meigen, 1822) (Diptera: Syrphidae) en Suisse et au Liechtenstein, avec une clef pour la distinguer des espèces proches 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Taxonomic revision of the Campoplex difformis group (Ichneumonidae, Campopleginae), with particular reference to species of economic importance 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lyman Entomological Museum (LEMQ) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New Zealand Arthropod Collection (NZAC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Batriscydmaenus Parker and Owens, New Genus, and Convergent Evolution of a “ Reductive ” Ecomorph in Socially Symbiotic Pselaphinae (Coleoptera: Staphylinidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Review of the chewing louse fauna of the invasive common myna (Acridotheres tristis), with new records from Palestine and a redescription of Brueelia chayanh Ansari, 1955 (Phthiraptera, Ischnocera, Brueelia-complex) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: IberArthro: A database compiling taxonomic and distributional data on Ibero-Balearic arthropods 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Gloucestershire Historic Wildlife Sightings prior to 1st Jan 2000 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Entomology Type (TYPE) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BRERC species records from all years at full resolution excluding Notable Species within the last 10 years 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tampere TMPM Coleoptera collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ladybirds of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Bruno OGER 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: General Biodiversity Records from Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Collections of the Faculty of Biology AMU 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lepidoptera collection of Hannu Saarenmaa 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Triplehorn Insect Collection, The Ohio State University 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZOBODAT (Zoological Botanical Database) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrate Zoology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Sufetula culshawi sp. nov. (Lepidoptera, Crambidae, Lathrotelinae): a previously unrecognised species affecting cultivated palms 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aeolothrips neyrizi, a new species of the genus Aeolothrips (Thysanoptera: Aeolothripidae) from southern Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMNH Material Samples (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the genus Tephrochlaena, with a key to genera of Palaearctic Heteromyzinae (Diptera: Heleomyzidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Department of Agriculture Environment and Rural Affairs (DAERA) Marine and Fisheries Division Marine Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RSPB Lochwinnoch incidental species records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cambridgeshire and Peterborough Environmental Records Centre data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Suffolk Biodiversity Information Service (SBIS) Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: HBRG Other Invertebrates Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iSpot British Isles observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Central Florida Collection of Arthropods (UCFC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Butterflies of Ireland pre-2022 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dr Mary Gillham Archive Project 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Texas A&M University Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LifeWatch observatory data: phytoplankton observations by imaging flow cytometry (FlowCam) in the Belgian Part of the North Sea 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The CPR Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SmartRivers - Aquatic invertebrate occurrence and pressure biometric scores in English, Welsh and Scottish rivers 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Earth Guardians Weekly Feed 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Marine Offshore Seabed Survey data held by JNCC 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian National Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate Common Standards Monitoring and ISIS Test Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: KwaZulu-Natal Museum-Entomology-collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cornell University Insect Collection (CUIC) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Diptera Holarctic (MZH/Luomus, Helsinki, Finland) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian Naturalists’ Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Hemiptera (Homoptera) collection of National Museum of Nature and Science 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bringing Reedbeds to Life Invertebrate Survey of three key reedbed sites in England in 2009, 2010 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Myriapods, Isopods, and allied species (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Micro-moths distribution for Dumfries and Galloway 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Distribution Atlas of Butterflies in Ireland 1979 (An Foras Forbartha) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ty Canol National Nature Reserve (NNR) Species Inventory 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NE Scotland beetle records 1800-2014 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección Taxonómica Nacional de Insectos “Luis María Murillo” (CTNI) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: East Anglian Fen Invertebrate Survey: Coleoptera 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Notebook, general observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herefordshire Wildlife Trust - Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BIOMAERL.Maerl Biodiversity.Functional Structure And Antropogenic Impacts (1996-1998). 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INHS wet collections accession 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Hymenoptera World (Luomus) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NHMD Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Platynotina (Coleoptera: Tenebrionidae) collections on the World 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RISC Heteroptera Non-Native Species Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The University and Jepson Herbaria -- Algae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Lothian Wildlife Information Centre surveys (Non-invertebrate - general) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MnhnL various project records, Recorder-Lux database 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Entomologische Sammlung (ETHZ-ENT) of Eidgenössische Technische Hochschule Zürich 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lund University Biological Museum - Insect collections Inventory 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum Aarhus Freshwater Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Arizona Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New Zealand Arthropod Collection - Symbiota 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Miscellaneous records held on the Cofnod database 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección de Entomología del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-E) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Protected and Invasive Species Records Collected Through Environment Agency Survey 1995 - 2021 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Frost Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RSMP Baseline Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Water Beetle Surveys from Britain and Ireland 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cranefly (Diptera; Tipuloidea) records for Britain to 2016 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NRW Regional Data: South East Wales Non-sensitive species 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Manchester Museum, University of Manchester, Botany Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An 'as-complete-as-possible' Sussex Beetle Records dataset covering the period to March 2017 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: R. M. Bohart Museum of Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Field Museum of Natural History (Geology) Fossil Invertebrates Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Stackpole National Nature Reserve Species Inventory and Ad-hoc Sightings from Across Pembrokeshire 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Coleoptera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NSW DPI Biosecurity Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: PlutoF platform reference-based occurrences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Derek Lott Coleoptera Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CM Vertebrate Paleontology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Entomological Collection (GNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: San Diego Natural History Museum Entomology Department 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mosquito Alert Dataset 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New Brunswick Museum - Insects 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UK abstract from Nottingham City Museums & Galleries (NCMG) Insect Collection Baseline database 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Xeno-canto - Orthoptera sounds from around the world 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NE Scotland fungus and lichen records 1800-2010 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iRecord Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MPM Milwaukee Public Museum Invertebrate Zoology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Alberta E. H. Strickland Entomological Museum (UASM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SEWBReC Bees, Wasps and Ants (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insectarium de Montréal (IMQC) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Water Bug (aquatic Heteroptera) data for Britain 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Environmental Monitoring Database (EMD) Species data 1987 to 2015 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine benthic dataset (version 1) commissioned by UKOOA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Paleontology - Invertebrates 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Georgia Collection of Arthropods 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Odonata Records (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleção de Hymenoptera do MZUSP 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Minor insect orders (Luomus) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Stonefly (Plecoptera) Data for Great Britain for 1955-2005 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insect specimens of Himeji City Science Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ISEA PAS European Diptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: WTSWW Data: All Taxa (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZMUO Common invertebrate collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural England Marine Monitoring surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Orthoptera collection (EO) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Kent Wildlife Trust Shoresearch Intertidal Survey 2004 onwards 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2020-2021 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Virginia Polytechnic Institute and State University Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleção de Lepidoptera do MZUSP 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DIPOL 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Odonata records from Kent's County Dragonfly Recorders (1976-2005) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INATURA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Scottish river macro-invertebrate records from 2007 collected by SEPA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lothian Wildlife Information Centre surveys (Invertebrates - general) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collated IRTU Freshwater Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Silphidae Recording Scheme - data verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by CCW 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lothian Wildlife Information Centre Secret Garden Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sciomyzidae Recording Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LWIC - Local Patch Project 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Florida Lepidoptery 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: South Australian Museum Adelaide provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Suguru Igarashi Insect Collection (Lepidoptera: Lycaenidae) of The University Museum, The University of Tokyo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate fossils 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: USMB Insecta 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Denver Museum of Nature & Science - Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fermanagh Flora 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera Eastern Fennoscandia (Luomus) (FC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biofokus 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: VectorNet observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Macaulay Library Audio and Video Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cleveland Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomological Collections (NHRS), Swedish Museum of Natural History (NRM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Ontario Museum - Entomology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Texas, Biodiversity Center, Entomology Collection (UTIC) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Recent Invertebrates Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: VIT-Coleopterotheca (The Natural History Museum of Álava) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of New Hampshire Collection of Insects and Arthropods (UNHC-UNHC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lepidoptera World (Luomus) (LEPW) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BeeWalk bumblebee distributions for Great Britain 2008-2022 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Marine Life Information Network (MarLIN) marine survey data (Professional) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Orthoptera and Allied Insects of the British Isles data from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ClimateWatch 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: hymenoptera 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bees of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plant bugs and allied species records, from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Insect specimen database of Kanagawa Prefectural Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine Intertidal Phase 1 Species Dataset from the Countryside Council for Wales 1996-2005 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera World (Luomus) (CW) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TWIC Biodiversity Field Trip Data (1995-present) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Entomological Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Entomology Collection at the Natural History Museum of Utah 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LACM Entomology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aquatic Heteroptera Dataset 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturkundemuseum im Ottoneum Kassel, Entomological Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Hemiptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera: Records for Kent 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Staffordshire Wildlife Trust Nature Reserves Inventory 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: J. B. Wallis / R. E. Roughley Museum of Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Soldier Beetle and Jewel Beetle (Coleoptera; Cantharoidea and Buprestoidea) records for Britain and Ireland to 2000 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arizona State University Charles W. O'Brien Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bee, wasp and ant (Hymenoptera: Aculeata) records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Porifera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invasive Species and Pests 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: IZIKO South Africa Museum Collection (1800-2013) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate collection of Jyväskylä University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Merseyside BioBank (verified) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Florida State Collection of Arthropods 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Heteroptera: Records for Kent 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ouellet-Robert Entomological Collection (QMOR) - Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Insects 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CHAS Entomology Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrate records from sites that are mainly across Scotland 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UTEP Insects (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Pisces 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Alabama Museum of Natural History Insect Specimens (Arctos) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Afromoths, online database of Afrotropical moth species (Lepidoptera) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Riparia - riparian habitat surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bob Merritt Coleoptera Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: KiEco Freshwater Ecology: Lake Macroinvertebrates 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lacewings and allied insects records from Britain and Ireland to 1999 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CEDaR Online Recording 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum Rotterdam - Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Brecknock Wildlife Trust (Now WTSWW Brecknockhire) records held by BIS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Essig Museum of Entomology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mayfly (Ephemeroptera) Data for Great Britain for 1906-2017 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Price Institute of Parasite Research, School of Biological Sciences, University of Utah 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: North Sea Benthos Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection Thysanoptera SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Lepidoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MfN - Fossil invertebrates Ia 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NE Scotland butterfly and moth records 1800-2010 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Isle of Wight Notable Species 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New Mexico State Collection of Arthropods 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Rock Pool Project database - intertidal species records from rocky shore habitats - from February 2019 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: River macroinvertebrate data for 2005 and 2006 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NRW Regional Data: North Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Waite Insect and Nematode Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tullie House Museum Natural History Collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Biodiversity4all Research-Grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Temporal variation in pesticide biodegradation 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: VectorDistributionStatus 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomology collection, UiT Tromsø Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Beetles (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Marine invertebrate collection NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ibaraki Nature Museum, Arthropoda collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: World Auchenorrhyncha Database 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleção Entomológica do Museu Nacional / UFRJ 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DNSM: Durban Natural Science Museum Insect Collection (1900-2011) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: William F. Barr Entomological Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Coleoptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Hemiptera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MIZ PAS Zoological Collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KZNM-PINDIP-DIPTATEACH 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NORSC - Sciaroidea, UiT Tromsø Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dorset Sites of Nature Conservation Interest (SNCI) species records 2000-2008 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Art 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UMCS Entomological Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Hymenoptera Institute Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ghent  University - Zoology Museum - Insect collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natuurmuseum Brabant, Tilburg - Invertebrates 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: DORSA - German Orthoptera Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Consultancy Contract Surveys - Marine Species Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norfolk and Suffolk Broads Invertebrate Data 2007-2008 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ISEA PAS Lepidoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Soldier Beetles and Allies Recording Scheme - data verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ehime University Coleoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sepsidae (Diptera) records from Britain and Ireland to 1985 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species within North Ayrshire from 1984 - Present 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Wasps of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: High occurrence of jellyfish predation by black-browed and Campbell albatross identified by DNA metabarcoding 2017 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hemiptera: Auchenorrhyncha:  Records for Kent 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dorset SW Pilot species dataset 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Species on the Edge - Great Yellow Bumblebee Monitoring - Coll and Tiree 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lothian Wildlife Information Centre - General Records (1900-1989) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Muscidae (Diptera) records from Britain and Ireland to 1985 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Odonata Collection of Zoology Museum - Sapienza University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Other beetle records from National Stag Beetle Surveys 2006-2021 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Darwin Mounds 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species found in the NOMS estate 2005 - Present 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2019 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2016 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records pre 2000 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: An annotated catalog of the type material of Adephaga and Myxophaga (Coleoptera) deposited in the Florida State Collection of Arthropods in Gainesville, Florida, United States of America 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Shigeru Eda Insect Collection of The University Museum, The University of Tokyo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Lacewings and Allies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: St Andrews BioBlitz 2016 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ciidae (Coleoptera) records from Britain and Ireland to 2004 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species Records for John Muir Trust Properties 2007-2009 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: South Lanarkshire peatland records 2013 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A revision of the Myopsalta crucifera (Ashton) species group (Hemiptera: Cicadidae: Cicadettini) with 14 new species from mainland Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Sepsidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección de Entomología - Hymenoptera - Parasitica 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New state and host records for Agromyzidae (Diptera) in the United States, with the description of thirty new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ZFMK Plecoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Noble Chafer: Post-BAP records from 1998 onwards 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Read between the lineata: A revision of the tattooed wasps, Zagrammosoma Ashmead (Hymenoptera: Eulophidae), with descriptions of eleven new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the genus Dinotoperla Tillyard, 1921 (Plecoptera: Gripopterygidae) using morphological characters and molecular data: Establishes two new genera, three new species and updates the larval taxonomy 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: DBRC Trichoptera 1974 - 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bees of the Hemihalictus series of Lasioglossum Curtis (Hymenoptera, Halictidae) in South Korea 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ants: Formica Exsecta Records (Scotland) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: North Rothiemurchus Pinewood SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Table 3. Biomass of the benthic infauna of the North Sea, 1980-1985 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Flanders Moss SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A key to European species of Hyposoter Förster, 1869 (Ichneumonidae: Campopleginae) with descriptions of 18 new species, and notes on all included species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of Alaptus (Hymenoptera: Mymaridae) in the Holarctic region, with taxonomic notes on some extralimital species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An annotated checklist of scale insects (Hemiptera: Coccoidea) of Saint Lucia, Lesser Antilles 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Great British Bee Count 2016 - Stage 2 (records verified from photo) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bee Flies of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pallopteridae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: PTES - incidental Coleoptera records from the 2006-2007 National Stag Beetle Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Catalogue of the Australian Eumeninae (Hymenoptera: Vespidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Odonata records from RSPB Reserves 1970-2009 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hymenoptera (NATUREUM:DZ-HYMENO) of Muséum cantonal des sciences naturelles, Lausanne, Département Zoologie 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sepsidae Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: FBIP: Systematics of South African Hymenoptera 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aphidoidea Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mayflies (Ephemeroptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Suguru Igarashi Insect Collection (Lepidoptera: Pieridae) of The University Museum, The University of Tokyo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Ranger Patrol Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Abundance and biomass of infaunal species as part of Essential fish habitat surveys, Co. Down Coast (Northern Ireland) 2012-2013. 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Global occurrence records of Robinia specialist insect herbivores 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2015 (Nottinghamshire) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Wildwatch North Pennines AONB project records for Cumbria 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Churchyards for London 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Back from the Brink Willow Tit Annual Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Argyll Biological Records Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: European Lepidoptera Observations by Donald Hobern 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Mayflies and Stoneflies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2002 (Inverness) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Priest Pot species list, Cumbria, Britain 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DASSH Data Archive Centre expert sightings records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Curated barcode collection of Auchenorrhyncha, processed by Symbiosis Evolution Group, Faculty of Biology, Jagiellonian University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZMUT Type specimen collections of Turku University 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TWIC - Identification Workshops dataset 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Review of Gonatocerus (Hymenoptera: Mymaridae) in the Neotropical region, with description of eleven new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2014 Scottish Natural Heritage (SNH) site check survey of intertidal sediment flats of Loch Moidart, Lochaber 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the genus Phanerotoma Wesmael (Hymenoptera, Braconidae, Cheloninae) from China, with descriptions of twenty-four new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the Old World species of the genus Tephritis (Diptera, Tephritidae) with a pair of isolated apical spots 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Invertebrate Assemblages at ten SSSIs, 2011-12 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The empidoid flies (Diptera: Empidoidea, exclusive of Dolichopodidae) of the Russian Arctic islands and Svalbard Archipelago 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Chinese species of Pediobius Walker (Hymenoptera: Eulophidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A taxonomic revision of the Formica rufibarbis Fabricius, 1793 group (Hymenoptera: Formicidae). 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Orthoptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Palaearctic types of Chrysididae (Insecta, Hymenoptera) deposited in the Linsenmaier collection. Part 2. Elampini: genus Hedychridium Abeille de Perrin, 1878 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lice (Phthiraptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Citizen Science Cranefly Records For Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2023 NRW Carmarthen Bay and Estuaries SAC sediment monitoring 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BTCV wildlife counts recording workshops 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Archbold Biological Station Arthropod Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ISEA PAS Coleoptera: Curculionidae and Chrysomelidae Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS lily beetle (Lilioceris lilii) monitoring 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SEWBReC Dragonflies and Damselflies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bob Merritt dataset of Nottinghamshire invertebrates 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INNS records held by BIS in Powys and Brecon Beacons National Park 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cerambycidae Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DASSH Data Archive Centre volunteer survey data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 1915-2016 Department for Environment Food & Rural Affairs (Defra), Marine Strategy Framework Directive (MSFD) Collation of invasive non-indigenous species 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UK Biodiversity Action Plan Invertebrate Data for Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Heteroptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of North Texas Elm Fork Insect Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: PANGAEA - Data from circulation and transfer of pollutants in the North Sea (ZISH) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2015 Orkney Islands Council Harbour Authority (OICHA) Marine Non-Native Species Monitoring Programme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: East Ayrshire Species Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hibernating Ichneumonidae records in the Western Palearctic 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Flickr (01) Shieldbugs & allied species 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Robberflies of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fossil butterflies, calibration points and the molecular clock (Lepidoptera: Papilionoidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Hymenoptera Records up to April 2010 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: British records of herpetofauna published in the British Herpetological Society's journals 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RE1 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Rum SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Abernethy Forest SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Longhorn Beetles of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The species of Eilema Hübner, [1819] sensu lato present in Europe and North Africa (Lepidoptera: Erebidae: Arctiinae: Lithosiini) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: OWRG Insects 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Freshwater Site Visits and Ad-hoc Sightings 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Catalogue of the Egyptian Ephydroidea (Diptera: Schizophora: Acalyptratae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An annotated taxonomic checklist of the Neotropical Gracillariidae (Lepidoptera) with links to the information on host plants and parasitoids 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New species and records of Stenus (Nestus) of the canaliculatus group, with the erection of a new species group (Insecta: Coleoptera: Staphylinidae: Steninae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SER Site-based Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: New larval host records, parasitoid records, and DNA barcoding data for North American leaf-mining leaf beetles (Coleoptera: Chrysomeloidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2009 The Marine Biological Association of the UK (MBA) Wembury Bioblitz Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Review of the Australian Cyllodini (Coleoptera: Nitidulidae: Nitidulinae), with descriptions of new taxa, and notes on the genus Macleayania (Nitidulini) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Patrick Roper’s Notebooks 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Zoological Museum Amsterdam, University of Amsterdam (NL) - Lepidoptera_Nymphalidae_Palearctic 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: iSpot (2008-2010): Shieldbugs & allied species 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insect Collection from the Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Portugal 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Revision of the Eurasian species of Aegilips Haliday, 1835 (Hymenoptera: Figitidae: Anacharitinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: River Spey - Insh Marshes SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Porcupine Marine Natural History Society Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NHMO DNA Bank Arthropod collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: R.H.Wardell - Cardiff Nature Conservation Strategy - 1991 - 1998 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fiocruz/CEIOC - Coleção Entomológica do Instituto Oswaldo Cruz 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Species Records for John Muir Trust Properties Nevis, Sandwood, Quinag and Schiehallion 2010. 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Auckland Museum Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Hemiptera - True Bugs (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera records from iRecord for families not covered by a recording scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dragonfly Ireland 2019 to 2024 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Eastern Cairngorms SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revisions to the faunas of Andrena of the Iberian Peninsula and Morocco with the descriptions of four new species (Hymenoptera: Andrenidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of Australian Ectomocoris with the description of nine new species (Hemiptera: Heteroptera: Reduviidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lothian and Borders Mammal Group recording 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Revision of Acroclisoides Girault & Dodd, 1915 (Chalcidoidea, Pteromalidae, Metasteninae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Water Bug (Aquatic Heteroptera) data for Britain - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection Trichoptera - SMF 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Illustrated key to genera and catalogue of Mymaridae (Hymenoptera) in America north of Mexico 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Chilocoris capensis n. sp., the first species of the genus Chilocoris Mayr, 1865 (Hemiptera: Heteroptera: Cydnidae) recorded in the Republic of South Africa with an annotated checklist of South African burrower bugs 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Black fungus gnats (Diptera: Sciaridae) found in association with cultivated plants and mushrooms in Australia, with notes on cosmopolitan pest species and biosecurity interceptions 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Wisteria scale (Eulecanium excrescens) records acquired by the Royal Horticultural Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Charipinae from UK 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Pittosporum sucker (Trioza vitreoradiata) records aquired by the Royal Horticultural Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A revision of Japanese Torymus Dalman (Hymenoptera: Torymidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Taxonomic review of the genera Micridium Motschulsky, 1869 and Micridina Johnson, 1969 (Coleoptera: Ptiliidae) with eleven new species including the first records from South America and Madagascar 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Minto Craigs SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Harperrig Otter Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Three new hoverfly species from Greece (Diptera: Syrphidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleoptera identified from the Horton Kirby site, near London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: On Anchonidium Bedel, 1884 sensu stricto, with descriptions of two new species from the Iberian peninsula (Coleoptera, Curculionidae: Molytinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: DBRC Ephemeroptera species records 1975 to 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Carnidae (Diptera) in the Canadian National Collection of Insects (Ottawa), with the description of five new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Two new dragonflies (Odonata: Anisoptera) from the Miocene of Carinthia (Austria) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleção de Diptera do MZUSP 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the Australian species of Agrotera Schrank (Lepidoptera: Pyraloidea: Crambidae: Spilomelinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dragonflies and Damselflies 1862-2013 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Institut Mediterrani d'Estudis Avançats (CSIC-UIB): IMEDEA-INSECTA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 1778-1998 Ivor Rees North Wales Marine Fauna Ad-hoc sightings shore and ship-based surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Revision of the Australian leaf beetle genus Cheiloxena Baly, 1860 (Coleoptera: Chrysomelidae: Spilopyrinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Glen Tarff SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Macrocydia divergens, a new genus and species of Grapholitini (Lepidoptera: Tortricidae: Olethreutinae) from Central America 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleoptera identified from the Crossness Sewage Works site, Bexley, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dolichochorus Strobl 1904: a valid genus of Mesochorinae (Hymenoptera: Ichneumonidae: Mesochorinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Ardgour Pinewoods SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera identified from the Poplar High Street site, Tower Hamlets, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A new scale insect host family (Hemiptera: Asterolecaniidae) for Aphytis (Hymenoptera: Aphelinidae) in China 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biology, early stages and description of a new species of Adelognathus Holmgren (Hymenoptera: Ichneumonidae: Adelognathinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The British species of Enicospilus (Hymenoptera: Ichneumonidae: Ophioninae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dipterists Forum: Field Week 2017 (Snowdonia) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bryotropha (Lepidoptera: Gelechiidae) in Western Palaearctic 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Stonefly (Plecoptera) records from Britain and Ireland, via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2019 (Stirling) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ad-hoc Bat Records from Across Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: R. Manning's Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Leaf-feeding species of the genus Liothrips from China (Thysanoptera, Phlaeothripinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Checklist of the tribe Enarmoniini Diakonoff, 1953 (Lepidoptera: Tortricidae) of Taiwan, with description of one new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Noble Chafer: Pre-BAP records prior to 1998 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Bonaly Moorland Moth Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of Cephennomicrus of Australia (Coleoptera, Staphylinidae, Scydmaeninae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A journey through the history of the British Chrysididae (Hymenoptera): unexpected taxonomic problems, new records and description of a new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the types of species of Alloxysta described by Cameron and Fergusson (Hymenoptera: Figitidae: Charipinae) and deposited in the Natural History Museum (London), including a key to the fauna of Great Britain 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Description of Acanthonavis deflexa gen. et sp. nov. (Hemiptera: Aleyrodidae) from the Nicobar Island, India, and generic re-definition of Editaaleyrodes David 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Immature stages of the Australian flower-loving fly Apiocera striativentris (Diptera: Apioceridae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Palaearctic genus Belothrips Haliday (Thysanoptera: Thripidae), with new synonyms and new combinations 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Coleoptera identified from the Hornchurch Marshes site, Dagenham, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2017 Onwards Rare Invertebrates in the Cairngorms Kentish Glory Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the genus Mniophila S, 1831 (Coleoptera: Chrysomelidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Shieldbug Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Lismore Lochs SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the genus Conicera Meigen (Diptera, Phoridae) from China 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LWIC - Orange Tip Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A review of West Palaearctic Hoplocampa species, focussing on Sweden (Hymenoptera, Tenthredinidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Stigmella species on the Wild Service Tree, Torminalis glaberrima, confused, overlooked and found again (Lepidoptera, Nepticulidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Wildlife Information Centre - LBS Network Strategic Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A revision of the genus Rhinotorus Förster, 1869 (Hymenoptera, Ichneumonidae, Ctenopelmatinae), with descriptions of three new species and an illustrated identification key 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Lurgie Loch SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Site Condition Monitoring of Marsh Fritillary on designated sites in west Scotland 2014-15 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Review of the European species of Diglyphus Walker (Hymenoptera: Eulophidae) including the description of a new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Perchhall Loch SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Taxonomic history and review of the Förster genera of Platygastridae (Hymenoptera: Platygastroidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Integrative taxonomy resuscitates two species in the Lasioglossum villosulum complex (Kirby, 1802) (Hymenoptera: Apoidea: Halictidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Mount Bog SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Records by Russell Miller 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Cragbank and Wolfehopelee SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Meniscus Midges (Dixidae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2024 Fisheries Industry Science Partnership (FISP) North Eastern Inshore Fisheries and Conservation Authority (NEIFCA) North East Inshore Habitat and Species Abundance Video Tow 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Diptera: Hippoboscoidea 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic review of the Craniophora s. l. (Lepidoptera, Noctuidae, Acronictinae) generic complex with description of 8 new genera and 13 new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Systematic revision of Central American Calligrapha Chevrolat of the subgenus Erythrographa subgen. nov. (Coleoptera: Chrysomelidae, Chrysomelinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Two new species of Maiestas Distant (Hemiptera: Cicadellidae: Deltocephalinae: Deltocephalini) with a new record from Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Green Hairstreak Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Craigellachie NNR invertebrate records compiled from SNH files 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Large Red Damselfly Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Rhigognostis senilella (Zetterstedt, 1839) and R. marmorosella (Wocke, 1849): two valid species distinguishable in genitalia (Lepidoptera, Plutellidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A new species of Eulagius M, 1845 (Coleoptera: Mycetophagidae) from Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Palaearctic types of Chrysididae (Insecta, Hymenoptera) deposited in the Linsenmaier collection. Part 3. Elampini: genus Hedychrum Latreille 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: World species of Arthrolytus (Hymenoptera Pteromalidae, Pteromalinae), with description of new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2017 Onwards Rare Invertebrates in the Cairngorms Northern Silver Stiletto Fly Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera identified from the Woolwich Manor Way site, Becton, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Numbers and dry weight of main macro-endofauna in surface sediments at Fladen Ground stations, North Sea (Table 3) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Taynish Woods SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A new species of Protearomyia (Diptera, Lonchaeidae) with a review of the genus in the Palearctic 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Scuttle flies (Diptera: Phoridae) reared from Spodoptera exigua (Hübner, 1808) (Lepidoptera: Noctuidae) in Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The Rhyacophila fasciata Group in Europe: Rhyacophila fasciata Hagen 1859 and formerly synonymized species (Trichoptera: Rhyacophilidae), with new description of Rhyacophila fasciata and Rhyacophila septentrionis McLachlan 1865 (stat. prom.). 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Phylogenetic relationships within the Frankliniella genus-group based on morphology, with a revision of Iridothrips (Thysanoptera, Thripidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Rubiaphis, a new aphid genus from the Altai Republic (Homoptera: Aphididae, Macrosiphini) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A new species of Stenchaetothrips (Thysanoptera, Thripidae) from Bamboo, based on morphological and molecular data 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Key to Ptychopteridae (Diptera) larvae of Northern Europe, with notes on distribution and biology 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Craneflies of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Grasshoppers, Crickets and Allied Insects (Orthoptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diptera Collection of Museum and Institute of Zoology PAS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Benthos counted on dredged samples during Valdivia cruise VA44 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2018 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Rhinophoridae Recording Scheme - verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dixidae (Diptera) records from Britain and Ireland to 1988 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Outer Hebrides Insect Records from Literature 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Canadian National Collection of Insects, Arachnids, and Nematodes (CNC) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RHS Hemerocallis midge survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Western Palaearctic Ectoedemia (Zimmermannia) Hering and Ectoedemia Busck s. str. (Lepidoptera: Nepticulidae): five new species and new data on distribution, hostplants and recognition 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Methven Woods SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species Surveillance Project - NNR Priority Species 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the Australian planthopper genus Chidaea Emeljanov with a redescription of Cixius sidnicus Stål, 1859 (Hemiptera: Auchenorrhyncha: Fulgoromorpha: Cixiidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A matrix-based revision of the genus Hypogena Dejean, 1834 (Coleoptera Tenebrionidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Review of the tribes Sogdini and Leiodini from Japan and North Chishima Islands. Part II. Genera Hydnobius and Leiodes (Coleoptera: Leiodidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: North European gall-inducing Euura sawflies (Hymenoptera, Tenthredinidae, Nematinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the stag beetle genus Ryssonotus MacLeay (Coleoptera: Lucanidae), with descriptions of a new genus and three new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Calliphoridae (Blowflies) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A photographic type catalogue of Platygastroidea (Insecta, Hymenoptera) in the Natural History Museum Vienna 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Wildlife Observations Bardon Hill 31.5.09 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Nezara viridula records held by the Royal Horticultural Society 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Generic key and catalogue of Mymaridae (Hymenoptera) of Mexico 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Caledonian Conservation Ltd Incidental Records 2014 onwards 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RISC Non-Native Species Records for Rhododendron Leafhopper 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Review Of The Genus Hinda Mulsant (Coleoptera, Coccinellidae, Hyperaspinae, Brachiacanthadini) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2009-2013 David Fenwick Cornwall Ad-hoc Rockpooling Sightings 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Review of the genera and subgenera of the subtribe Aspilotina (Hymenoptera, Braconidae, Alysiinae), with a new illustrated key 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A review of the Pseudomyrmex ferrugineus and Pseudomyrmex goeldii species groups: acacia-ants and relatives (Hymenoptera: Formicidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The West Palaearctic Pseudodineura and Endophytus species (Hymenoptera, Tenthredinidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Whitlaw Mosses SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the genus Metura (Lepidoptera: Psychidae) with description of two new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The genus Liothrips (Thysanoptera, Phlaeothripidae) in Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Tweedwood - Gateheugh SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera identified from the Borax Works, Norman Road site, Bexley, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phenology Survey Outer Hebrides 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Review of the Swedish species of Ophion (Hymenoptera: Ichneumonidae: Ophioninae), with the description of 18 new species and an illustrated key to Swedish species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Coleoptera: Byyrhidae, Clambidae, Dascillidae & Phalacridae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LWIC - Common Blue Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A study of the Iranian species of Choeras Mason (Hymenoptera: Braconidae: Microgastrinae), with the description of a new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: False Blister Beetles (Oedemeridae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A revision of Palaearctic Anthobium Leach, 1819 (Coleoptera: Staphylinidae Omaliinae: Anthophagini). V. Algidum, morosum and tectum groups, a new species of the fusculum group, and faunistic records 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Austrocnephia, new genus, for five species of ‘ Paracnephia’ (Diptera: Simuliidae), with a key to Australian black fly genera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Three new species of Anacharis Dalman, 1823 (Hymenoptera: Figitidae), with revised taxonomy and distribution records of Palaearctic and Indomalayan species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision Of The Australian Coccinellidae (Coleoptera). Genus Novius Mulsant Of Tribe Noviini 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revised species definitions and nomenclature of the blue and purple / rose Cithaerias butterflies (Lepidoptera, Nymphalidae, Satyrinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Systematic study of Duadicus Dallas, 1851 (Insecta: Hemiptera: Heteroptera: Acanthosomatidae: Blaudusinae: Blaudusini), including the description of a new species from Western Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Therevidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Butterflies (Lepidoptera: Papilionoidea) of Mount Kilimanjaro: Nymphalidae subfamilies Libytheinae, Danainae, Satyrinae and Charaxinae 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New records of Norwegian Psychodidae, with the first description of the female of Trichosepedon balkanicum (Krek, 1970) comb. nov. 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New data on the taxonomy, distribution and host plants of Australian Epermeniidae (Lepidoptera: Epermenioidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Maidens to Doonfoot SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Common Blue & Six Spot Burnet Moth Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: On the dumping ground genus Scotaena Klug, 1810 (Hymenoptera: Tiphiidae: Thynninae): Phylogeny, taxonomy and geographic distribution 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Molecular evidence for deeper diversity in Australian Tanypodinae (Chironomidae): Yarrhpelopia and related new taxa 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Käfer aus Lichtfallenfängen in Conthey (VS) und in Seseglio (TI) (Coleoptera) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A review of the genus Neogreenia MacGillivray (Hemiptera: Coccomorpha: Qinococcidae) with descriptions of two new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2017 Onwards Rare Invertebrates in the Cairngorms Small Scabious Mining Bee Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MH1 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Great British Bee Count 2015 - Stage 2 (records verified from photo) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of Embolemidae (Hymenoptera: Chrysidoidea) from the Middle East 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A review of the Margarodidae sensu stricto (Hemiptera: Coccomorpha) in China, with descriptions of three new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The extant species of the genus Omma Newman and description of Beutelius gen. nov. (Coleoptera: Archostemata: Ommatidae: Ommatinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Brigham Young University Arthropod Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Abundance and composition of meiobenthos in surface sediments at Fladen Ground stations in August 1975, North Sea (Table 4) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lance lacewings of the world (Neuroptera: Archeosmylidae, Osmylidae, Saucrosmylidae): review of living and fossil genera 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UJ Nature Education Centre - the Lepidoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Seasearch Marine Surveys in Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: C.P. Gillette Museum of Arthropod Diversity 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2017 Onwards Rare Invertebrates in the Cairngorms Shining Guest Ant Survey Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diptera records from iRecord for families not covered by a recording scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NRW Regional Data: all taxa (excluding sensitive species), West Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biogeographic data from BODC - British Oceanographic Data Centre 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New and little known taxa of the order Orthoptera (Insecta) from the Upper Triassic and Lower Jurassic of England 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Wider Countryside Butterfly Scheme (WCBS) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Montgomeryshire Wildlife Trust records held by BIS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Pararhigognostis-a new genus for Plutella stichocentra Meyrick, 1932 (Lepidoptera, Plutellidae), with a redescription of its male and female genitalia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Some techniques for the study of useful characters in the taxonomy of the genus Timarcha Samouelle, 1819 (Coleoptera, Chrysomelidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aphis species (Hemiptera, Aphididae) living on Mulinum (Apiaceae) in South America, with a description of a new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Sheffield and Rotherham Wildlife Trust - Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UniLodz NHM Entomological Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Auchenorrhyncha Recording Scheme - records for UK verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Seasearch Marine Surveys in Scotland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Butterflies of Northern Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Washington State University Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: National Stag Beetle Surveys (Great Stag Hunts) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Diversity of Hornets in the Genus Vespa (Hymenoptera: Vespidae; Vespinae), Their Importance and Interceptions in the United States 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dysaphis (Dysaphis) kadyrovi sp. nov. — a new aphid species (Hemiptera: Aphididae) from Tajikistan 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ealing Wildlife Group 2024-2025 Brown Hairstreak surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera identified from the St. Paul's Academy site, Abbey Wood, London 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Taxonomic notes on West Palaearctic species of Lauxania Latreille, Sapromyza Fallén, Calliopum Strand and Minettia Robineau-Desvoidy, with a description of a new species of Minettia (Diptera, Acalyptrata: Lauxaniidae) from Morocco 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: First records of the cremastocheiline genus Clinterocera Motschulsky, 1858 from the Indonesian island of Sulawesi, with description of a new species (Coleoptera: Scarabaeidae: Cetoniinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: KiEco Freshwater Ecology: River Macroinvertebrates 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian National Wildlife Collection provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Purdue Entomological Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bob Merritt invertebrate records for VCs 72-75 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insect specimens of Ryukyu University Museum (Fujukan) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Odonata 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tartu University fossil collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Herbarium of Victoria (MEL) AVH data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Paleontology 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: National Trust for Scotland Species Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mosquito Occurrence Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UK Ladybird Survey data from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Trevor and Dilys Pendleton Eakring and Nottinghamshire Invertebrate Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZMAA Insect collections of Åbo Akademi 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UCM Entomology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Zoologische Staatssammlung Muenchen - International Barcode of Life (iBOL) - Barcode of Life Project Specimen Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrates Collection of the Swedish Museum of Natural History 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dorset SSSI Species Records 1952 - 2004 (Natural England) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank Active Naturalists (unverified) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UK Cranefly Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hoverflies (Syrphidae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Data from Defra Family Organisations supplied to Staffordshire Ecological Record 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Longhorn beetle (Cerambycidae) data from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Merseyside BioBank (unverified) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: All taxa records for Leicestershire and Rutland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera of R. Scholz Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Records of Invasive Non Native Species held on the Cofnod database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Animal Sound Archive 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Soldierflies and Allies Recording Scheme - data verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Academy of Natural Sciences of Philadelphia Vertebrate Paleontology Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tachinid Recording Scheme - Tachinid fly records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Neuropteren Deutschlands (Neuropterida of Germany) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Casual records for Scottish Wildlife Trust reserves - Verified data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Zoology (Museum of Evolution - Uppsala) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: European Moth Nights 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The UK Archive for Marine Species and Habitats Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coccinellidae Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Verified data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Zooplankton studies in the Southern Bight of the North Sea between 1971 and 1974 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Heleomyzid Recording Scheme - data verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FBIP: IZIKO Hymenoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Occurrence data of dragonflies available at the National Museums of Kenya's Natural History Collection, Invertebrates Zoology Section. 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Oil Beetle Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hymenoptera of J. Noskiewicz Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ARC-PPRI: Chalcidoidea Collection (1900-2010) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lepidoptera Records up to April 2010 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UK Sarcophagidae Recording Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: GB3D Fossil Types Online 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SEWBReC Caddisflies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Carabidae of South Kuriles 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RHS berberis sawfly (Arge berberidis) monitoring 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dryinidae of the Oriental region (Hymenoptera: Chrysidoidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Yorkshire Naturalists Union Marine and Coastal Section Records 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: PondNet data 2012-2014 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums BRC: Hemiptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Siphonaptera and Phthiraptera Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Type Specimen Database of Museum and Institute of Zoology PAS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: 2009 - ongoing The Marine Biological Association of the UK (MBA) Devon and Cornwall Bioblitz Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Derbyshire Casual LEPIDOPTERA records - Casual records collated by Derby Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Die Heteropterensammlung Ernst Heiss im Tiroler Landesmuseum Ferdinandeum. Teil V: Tingoidea, Familie Tingidae LAPORTE, 1832 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Systematics of the weevil genus <i> Mecinus </ i> Germar, 1821 (Coleoptera: Curculionidae). I. Taxonomic treatment of the species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Empididae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2018 North Devon Coast Areas of Outstanding Natural Beauty Northam Burrows BioBlitz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG P.F. Entwistle Colln and Notebooks Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Weevils (Curculionoidea) from the UWIZM Land Arthropod collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Neotropical species of the genus Osoriellus FAGEL, 1959 (Coleoptera: Staphylinidae: Osoriinae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the Australian species of Figulus MacLeay, 1819 (Coleoptera: Lucanidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Kelp Fly Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums Biological Records Centre: Coleoptera: Monotomidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Revision of Australian Brachysandalus with the description of nine new species including one cavernicolous species (Hemiptera: Heteroptera: Reduviidae), and observations on male extragenital structure and leg teratology 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Dipterists Forum: Field Week 2004 (Wiltshire) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Specimen data of Stigmella species (Lepicoptera, Nepticulidae) feeding on Torminalis glaberrima (Rosaceae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Neuroptera collection of National Museum of Nature and Science 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Den of Airlie SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biological Recording in Scotland - Bumblebee Survey 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: A revision of European species of the genus Tetrastichus Haliday (Hymenoptera: Eulophidae) using integrative taxonomy 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Queensland Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: European occurrence records of the Robinia herbivores Parectopa robiniella, Macrosaccus robiniella and Obolodiplosis robiniella compiled from literature records and personal observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomy of Morellia Robineau-Desvoidy (Diptera: Muscidae): revision of the subgenera Morellia s. str. and Parapyrellia Townsend 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A revision of the Australian species of the genus Melobasis Laporte & Gory 1837 (Coleoptera: Buprestidae), Part 3 (Revision of the azureipennis, cupricollis, iridicolor and melanura species groups) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: TWIC General Records (2015 - present) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dragonfly records from the British Dragonfly Society Recording Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Palaeontological collection (PMO) at UiO NHM, Oslo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Diplectroninae reviewed (Insecta: Trichoptera), with description of 21 new species, most referred to a new genus 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mosquitoes (Culicidae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2017 North Devon Area of Outstanding Natural Beauty (AONB) Combe Martin Devon Bioblitz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Small Acalypterate Families Recording Scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ant type specimens (Hymenoptera, Formicidae) in the collection of Volodymyr Opanasovych Karawajew. Communication 1. Dorylinae, Poneromorpha and Pseudomyrmecinae 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Yorkshire Wildlife Trust - Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Blind Moss SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The type specimens of sawflies (Hymenoptera: Symphyta) of the Museo Nacional de Ciencias Naturales, Madrid 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of Holarctic Illidops Mason (Hymenoptera, Braconidae): A first step towards resolving a dark taxon and descriptions of three new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Zwicknia gen. n., a new genus for the Capnia bifrons species group, with descriptions of three new species based on morphology, drumming signals and molecular genetics, and a synopsis of the West Palaearctic and Nearctic genera of Capniidae (Plecoptera) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ájtte Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Anymals+plants - Citizen Science Data 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Orthoptera & Allies: Records for Kent 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Manchester Entomological Society: Diptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: arim 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hemiptera World (Luomus) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New Brunswick Museum - Mollusca 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Stoneflies (Plecoptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Riverfly Census - Aquatic invertebrate species occurrence, for the calculation of pressure biometric scores in English and Welsh rivers covering the period 2015 - 2018 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Entomology National Collection (MACNEn) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Grasshoppers, Bush-crickets and allies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bombus of Canada 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natalie Harmsworth's Records (2010-2019) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museo Nacional de Ciencias Naturales, Madrid. Colección de Tejidos y ADN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NBMP Sunset-Sunrise Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2018 (Stoke) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Trust Species Records 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: TWIC Site Surveys (2010 - present) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Formicidae Collection Univesity of Granada 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2016 (Canterbury) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleção de Phthiraptera do MZUSP 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Metagenome data from DNA stable isotope probing of Stiffkey saltmarsh sediment microcosms to investigate methanogenesis from choline 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Sciomyzidae Recording Scheme - iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DASSH Data Archive Centre volunteer sightings records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Zoological Museum Amsterdam, University of Amsterdam (NL) - Diptera_Tipulidae_Palearctic 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: 2012-2014 Orkney Islands Council Marine Non-Native Species Monitoring Programme 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Keiichi Omoto Butterfly Collection(Papilionidae), The University Museum, The University of Tokyo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dipterists Forum - Field Week 1999 (North West England) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Armas Järvelä's Lepidoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glasgow Museums BRC: Carabidae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ben Eighe NNR invertebrate records compiled from SNH files 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Natural Heritage Service Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tipi di Nymphalidae nella Collezione entomologica di lepidotteri di Roger Verity | Nymphalidae types in the Roger Verity's entomological collection of lepidopterans 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: David Dodds Associates Ltd - Species Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Citizen Science Beetle Records For Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Native Species Surveys Across Wales (1978 to 2006) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 2021 (Falmouth) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Suguru Igarashi Insect Collection (Lepidoptera: Hesperiidae) of The University Museum, The University of Tokyo 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Lepidoptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mines and galls (ZMUO) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Benthos counted on dredged samples during Valdivia cruise VA53 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DBRC Hymenoptera species records 1975 to 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Odonata Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: East Lothian Council - Biodiversity Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Entomological Specimens of Museum of Nature and Human Activities, Hyogo Pref., Japan 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Insect, Arachnid and Myriapod Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Palaeozoological Collections (PZ), Swedish Museum of Natural History (NRM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SysTax -  Zoological Collections 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Manx Biological Recording Partnership VERIFIED records loaded between 05/09/2019 and 24/01/2024 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: HBRG Insects Dataset Vol 1 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Moths in Berkshire vice-county - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Insect specimens in the Museum of Nature and Human Activities, Hyogo Prefecture, Japan 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Chrysomelidae beetle data from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collections paléontologiques de l'Université Rennes 1 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Records from iRecord not covered by a national recording scheme 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nottinghamshire Wildlife Trust - Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank Active Naturalists (verified) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Radnorshire Wildlife Trust records held by BIS 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invertebrata Collection of Institute of Systematics and Evolution of Animals 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS rosemary beetle (Chrysolina americana) monitoring 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insects and other arthropods collected and/or identified by Roel van Klink and Corinna Rickert 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ZFMK Orthoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cumbria Non Native Invasive Species 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Beetles (LSM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BCE butterfly data expert holiday data throughout Europe 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NE Scotland other invertebrate records 1800-2010 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Atomariine Beetle (Coleoptera) records for Britain and Ireland to 1992 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera Mannerheim (Luomus) (CM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The genus Rhabdomastix Skuse in Australia (Diptera: Tipuloidea: Limoniidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Contribution to the aphid fauna (Homoptera, Aphidinea) of the Taymyrsky Dolgano-Nenetsky District and the krai city of Norilsk, with descriptions of two new species of the genus Metopolophium 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Handsome Fungus Beetles (Endomychidae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Cadder Wilderness SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ' Monster Scydmaenus' of Australia: revision of subgenus Corbulifer Franz (Coleoptera: Staphylinidae: Scydmaeninae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Illuminating a Dark Taxon: Revision of European Trichacis Förster (Hymenoptera Platygastridae) reveals a glut of synonyms 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cryptic species in the nuisance midge Polypedilum nubifer (Skuse) (Diptera: Chironomidae) and the status of Tripedilum Kieffer 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Rhidorroch Woods SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Dollar Glen SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Contributions to the knowledge of Dichelops Spinola: description of a new species of Dichelops (Diceraeus) and of the male of Dichelops (Prodichelops) divisus (Hemiptera: Heteroptera: Pentatomidae: Pentatominae: Carpocorini) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A key to species of Nomada ruficornis species-group (Hymenoptera: Apidae) of South Korea, with descriptions of three new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Isle of Man historical wildlife records 1990 to 1994 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Grasshopper and Cricket (Orthoptera) and related species records from Britain and Ireland to 2007 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Weevil and Bark Beetle records via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UCM Invertebrate Paleontology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: AM: Terrestrial Insect Collections (1896-2000) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Microlepidoptera of Glamorgan 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Botany (UPS) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of British Columbia - Spencer Entomological Collection (UBCZ) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Endure – standardised invertebrate sampling in coastal blond dunes from the 2-seas region 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Sawfly (Symphyta) records from iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG Insects Dataset Vol 2 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: East Lothian Council Ranger Service Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: HBRG Richard Moore beetle records from Raasay Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mayfly (Ephemeroptera) records from Britain and Ireland, via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Records from the RHS insect reference collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: North Merseyside Local Species Data (DEFRA Grant 23169) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caddisfly (Trichoptera) records from Britain and Ireland, via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ireland's BioBlitz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Siewierz Forest District Lepidoptera Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleoptera of G. Polentz Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Diptera 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS Box tree moth (Cydalima perspectalis) monitoring 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic Information System for the Belgian coastal area 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BioFresh Pond Data 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lepidoptera specimen database of Japan 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Elsie Welter Natural History Museum of Concordia College 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Stoke-on-Trent Environmental Survey results (1982-1984) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: 2023 DAERA Sediment infauna data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MUST, Insecta 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Entomological collections, UiB 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BoBO - Botanic Garden and Botanical Museum Berlin Observations 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Nebraska State Museum, C.E. Bessey Herbarium - Bryophytes 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Macroinvertebrate abundance in river biotopes across England and Wales 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Borders Backyard Biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BIOMÔR 4 The Outer Bristol Channel Marine Habitat Study 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Zoological Museum Amsterdam, University of Amsterdam (NL) - Diptera_Types 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ARC-PPRI: Collection of Southern African bees  (1800-2007) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Information on the findings of staphylinid beetles (Coleoptera, Staphylinidae) in Ukraine 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Orthoptera (and allies) records for Dumfries and Galloway 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Hymenoptera collection (EY) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Diptera collection (ED) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate surveys of various ponds in Scotland between 2010 and 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Unassessed data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZMH Trichoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine Life Survey Data (collected by volunteers) collated by MarLIN 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Laboratorio de Entomología y Control de Plagas del Instituto Cavanilles de Biodiversidad y Biología Evolutiva de la Universidad de Valencia: ENV 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: 2010-2013 Beetle Data from Machair LIFE+ Project Plots 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: St Andrews BioBlitz 2015 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fossil collection of University Museum Utrecht (UMU) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Benthic bycatch from dredge surveys for seed mussel (Mytilus edilus) stock assessment, Outer Ards, Northern Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ZFMK Phtiraptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Glen Finglas Species  Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Albert J. Cook Arthropod Research Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northern Territory Museum and Art Gallery provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Cairngorms SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate Site Register - England 1738-2005 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate Paleontology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: EURISCO, The European Genetic Resources Search Catalogue 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Further revisions to the Palaearctic Andrena fauna (Hymenoptera: Andrenidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CAS Entomology (ENT) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northern Ireland Environment Agency (NIEA) Collated Species Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hatikka.fi observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Hawaii Insect Museum 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RBINS DaRWIN 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Agri-Food and Biosciences Institute Marine Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hymenoptera specimen database of Kyushu University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Insects Outer Hebrides 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SEWBReC Diptera - True Flies (South East Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Florida State Collection of Arthropods 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: INNS Data: All Taxa (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tiroler Landesmuseum Ferdinandeum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2017 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Dipterists Forum: Field Week 1981 (Kent) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northumberland Wildlife Trust - Records 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Review of Gonatocerus (Hymenoptera: Mymaridae) in the Palaearctic region, with notes on extralimital distributions 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: HBRG Highland Seashore Project Dataset 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: National Marine Monitoring Programme data set 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Heteroptera of A. Wróblewski Collection 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Contribution to the knowledge of Limoniidae (Diptera: Tipuloidea): first records of 244 species from various European countries 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Casual records for Scottish Wildlife Trust reserves - Unassessed data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ants of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2014 Scottish Natural Heritage (SNH) site check survey of intertidal sediment flats of Loch Moidart, Lochaber 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Morrich More SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Wildlife Information Centre - BioBlitz Events 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZMH Lepidoptera collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Morphological revision of the hyperdiverse Brueelia - complex (Insecta: Phthiraptera: Ischnocera: Philopteridae) with new taxa, checklists and generic key 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ben Lui NNR invertebrate records compiled from SNH files 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2018 Marine Biological Association of the UK (MBA) Yealm Bioblitz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mosquito Occurrences in the UK - Review of Literature 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lothian Wildlife Information Centre - I-Spy 100 (public) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Ben Lomond SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Dungflies (Scathophagidae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: An annotated and illustrated Type Catalogue of the predacious Shieldbugs (Hemiptera: Heteroptera: Pentatomidae: Asopinae) in the Collection of the Natural History Museum, London 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The checklist of the tribe Olethreutini (Lepidoptera: Tortricidae) of Qinghai-Tibet Plateau 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Harpactus Shuckard 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Spider wasps (Hymenoptera, Pompilidae) of the Republic of Khakassia, Eastern Siberia, Russia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Catalogue of Egyptian Tephritoidea (Diptera: Schizophora: Acalyptratae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: World Catalogue of the Druid Flies (Diptera: Schizophora: Clusiidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tortoise Beetles (Cassidinae) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biological Recording in Scotland - Scotsman Wildlife Surveys 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ants: Formica Exsecta Records from Abernethy RSPB 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Glenmore Forest SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Clarification of the status of the types of Australian Melolonthini (Coleoptera Scarabaeidae: Melolonthinae) described before 1950 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: In the footsteps of history: the bees of the genus Hylaeus Fabricius (Hymenoptera, Apoidea: Colletidae) collected by V. I. Roborovsky and P. K. Kozlov in Northwest China (1895 - 1926) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Synonymy of Reikosiella Yoshimoto under Merostenus Walker (Hymenoptera: Chalcidoidea: Eupelmidae), with a checklist of world species and a revision of those species with brachypterous females 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Name-bearing types of butterflies (Lepidoptera, Papilionoidea), in the National Museums of Scotland, Edinburgh 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Updated catalogue of Pompilidae (Hymenoptera) in Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Anisopodidae and Thaumaleidae (Diptera: Nematocera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The West Palaearctic Dineura species, focussing on Sweden (Hymenoptera, Tenthredinidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Two new genera and five new species of Mugadina - like small grass cicadas (Hemiptera: Cicadidae: Cicadettini) from Central and Eastern Australia: comparative morphology, songs, behaviour and distributions 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A photographic catalog of Ceraphronoidea types at the Muséum national d’Histoire naturelle, Paris (MNHN), with comments on unpublished notes from Paul Dessart 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Australian Marsh Beetles (Coleoptera: Scirtidae). 9. The relations of Australasian Ypsiloncyphon species to their Asian congeners, additions, mainly to Petrocyphon and Prionocyphon, and a key to Australian genera of Scirtinae 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lochetica ramii sp. nov. – a new species of Lochetica Kriechbaumer, 1892 (Hymenoptera, Ichneumonidae, Phygadeuontinae) from Finland, with a key to world species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Nineteen new species of Megaselia Rondani (Diptera, Phoridae) from Denmark 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Site Condition Monitoring of dragonflies on Loch aí Mhuilinn NNR - 2002 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arizona State University Hasbrouck Insect Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Western Australian Museum provider for OZCAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ron McBeath records (2010 - 2014) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: European stag beetle monitoring network: transect observations 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrates compiled by W.Block 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: True Bugs (Hemiptera) from the UWIZM Land Arthropod collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2006 BP Exploration and Production BP Exploration operating company Ltd. UKCS 9/23b Harding site survey May-June 2006 environmental report - Harding 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species Occurrence Data from the Journals of William Brewster, 1886-1894 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Flies (Diptera) from the UWIZM Land Arthropod collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Historical Records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 5062 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Invertebrate Data from Grazing Marshes East Sussex/South-west Kent 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Carrion Beetles of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH site condition monitoring of SSSIs for water beetles 2010 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ecological surveys from Bardon Hill undertaken in the period 2000 to 2007 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Published ant (Hymenoptera: Formicidae) records from the island of Cyprus 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Small Acalypterate Families Recording Scheme - records via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: World revision of Iteaphila with unbranched radial vein (Diptera: Empidoidea: Iteaphilidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015-16: Culbin Sands, Culbin Forest and Findhorn Bay SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Urban Roots Malls Mire Invertebrate Records 2014 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MoJ BioBlitz August 2018 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hippoboscidae and Nycteribiidae Recording Scheme - records verified via iRecord 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: JH1 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Weevils of Wales and England 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxonomic revision of Australian Pristoderus Hope (Coleoptera, Zopheridae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Revision of the Western Palaearctic Diplazontinae (Hymenoptera, Ichneumonidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The genus Sphecodes Latreille 1804 (Hymenoptera: Apoidea: Halictidae) in Central Asia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A taxonomic revision of the genus Asiobaccha Violovitsh (Diptera: Syrphidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Diptera Records (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Review of the Palaearctic species of Ismaridae Thomson, 1858 (Hymenoptera: Diaprioidea) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BioAcoustica: Wildlife Sounds Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lacewings (Neuroptera) of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HNCF BioBlitz and organized survey records from 2023 and 2025 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Earlshall Muir SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: New records of Philopterus (Ischnocera: Philopteridae) from Acrocephalidae and Locustellidae, with description of one new species from Regulidae 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Platypezidae of Ireland 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: 2017 Onwards Muirkirk & North Lowther Uplands SPA species records 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2013/14: Alvie SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring 2015: Carrick Ponds SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Table 1. Species richness and abundance of the benthic infauna of the North Sea, 1980-1985 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Merrick Kells SSSI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Deanophlebia: A new genus of south-eastern Australian mayflies and subsequent redefinition of the subgenus Nousia (Australonousia) (Ephemeroptera: Leptophlebiidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Orthopteran Records (West Wales) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Empididae (Diptera) of Serbia: faunistic survey and description of a new Empis species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A checklist of Leiodidae (Coleoptera: Staphylinoidea) of Iran 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: New black fungus gnats (Diptera: Sciaridae) from Eastern Australia 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The green lacewings of Pakistan (Neuroptera: Chrysopidae): a faunal review with new records of genera and species 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Phylogeny of Corynoptera Winnertz and related genera, with the description of Claustropyga gen. nov. (Diptera, Sciaridae) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Contributions to the taxonomy, identification, and biogeography of Thaumatogelis Schwarz, 1995 (Hymenoptera: Ichneumonidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI - 2016 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Afrotropical and West-Palaearctic species of Ecrizotes Förster (Hymenoptera: Pirenidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bohemannia auriciliella (Nepticulidae) specimen data 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: An annotated catalogue of the Iranian Microtypinae and Rogadinae (Hymenoptera: Braconidae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Checklist of Omophoita Chevrolat, 1836 (Coleoptera: Chrysomelidae: Galerucinae: Alticini) and diagnoses for some species from southern Brazil: notes on the taxonomic history, redescriptions and new records 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Redescriptions of three species in the louse genus Myrsidea (Insecta: Phthiraptera: Amblycera) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Small Pearl-bordered Fritillary Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Goniodidae (Phthiraptera: Ischnocera) of peafowl (Aves: Galliformes: Pavo), with description of a new genus 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UWS Flanders Moss Meiofauna Records 2015 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field cricket (Gryllus campestris) site summary records, 2011-2021 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tyne River Macroinvertebrates 2020 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Revision of the Hylaea fasciaria (Linnaeus, 1758) species group in the western Palaearctic (Lepidoptera: Geometridae, Ennominae) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: A new species of Eurypeza Lacroix, 2006 (Coleoptera: Scarabaeidae: Melolonthinae: Tanyproctini) from Kenya 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

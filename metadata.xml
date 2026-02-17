@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4362b519-44f7-444c-a2f7-761969e85852"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <title>GBIF Occurrence Download 0006025-260208012135463</title>
+        <creator>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2026-02-10
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            A dataset containing all occurrences available in GBIF matching the query:
+{
+  "and" : [
+    "Country is United Kingdom of Great Britain and Northern Ireland",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Insecta"
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+443042 records from Hoverfly records verified via iRecord
+265862 records from International Barcode of Life project (iBOL)
+30511150 records from Macro-moth distribution records for the UK from Butterfly Conservation, up to 2019
+5321 records from Snow Entomological Museum Collection
+2 records from Natural History Museum Aarhus Entomology Collection
+12873 records from Natural Resources Wales Regional Data : Mid-Wales
+88603 records from Leicestershire and Rutland Environmental Records Centre records 2020-2024
+526 records from Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by JNCC
+254 records from AntWeb
+7 records from Bee Biology and Systematics Laboratory
+17 records from Global soil microbiomes: A new frontline of biome-ecology research
+66503 records from LERN Records
+362071 records from SER Species-based Surveys
+2772 records from Paleobiology Database
+472933 records from Caddisfly (Trichoptera) records from Britain (excluding Northern Ireland and Channel Islands) up to July 2024 from the National Trichoptera (Caddisfly) Recording Scheme
+302 records from Terrestrial and limnic invertebrates systematic collection, NTNU University Museum
+10060084 records from UK Butterfly Monitoring Scheme (UKBMS)
+8110 records from VectorBase (Bioinformatics Resource for Invertebrate Vectors of Human Pathogens)
+7 records from Harold W. Manter Laboratory of Parasitology Collection (HWML) Parasite Collection (Arctos)
+40 records from izeltlabuak.hu observations validated to species level
+356758 records from Shropshire Ecological Data Network database
+196 records from eButterfly Surveys
+91 records from University of Tartu Natural History Museum and Botanical Garden Zooloogical Collections
+78 records from ICES Zoobenthos Community dataset
+15559171 records from Butterfly distribution records for the UK from Butterfly Conservation, up to 2019
+261 records from Species data for Scottish waters held and managed by Scottish Natural Heritage, derived from benthic surveys 1993 to 2018
+85 records from Naturalis Biodiversity Center (NL) - Lepidoptera
+21948 records from BRERC Notable Species records within the last 10 years
+424505 records from Ground Beetle Recording Scheme - data verified via iRecord
+37377 records from Leicestershire and Rutland Environmental Records Centre records 2010-2014
+1562897 records from iNaturalist Research-grade Observations
+277 records from INSDC Host Organism Sequences
+513794 records from Record species dataset covering Cheshire, Halton, Warrington &amp; Wirral
+625 records from Museum of Comparative Zoology, Harvard University
+357468 records from Observation.org, Nature data from around the World
+78 records from University of Minnesota Insect Collection
+1306 records from Dorset Sites of Nature Conservation Interest (SNCI) species records pre 2000
+53 records from Lund University Biological Museum - Insect collections Specimens
+1084 records from PANGAEA - Data from various sources
+86478 records from Leicestershire and Rutland Environmental Records Centre records 2000-2009
+25 records from Odonata Central
+181 records from Naturalis Biodiversity Center (NL) - Diptera
+6 records from Naturalis Biodiversity Center (NL) - Cainozoic Mollusca
+122760 records from Ladybird Survey of the UK
+2 records from Academy of Natural Sciences Entomology Collection – OrthopNet
+2434 records from NMNH Extant Specimen Records (USNM, US)
+21611 records from Leicestershire and Rutland Environmental Records Centre records 2015-2019
+21168 records from West Wales Online Records
+1 records from Bibliographie de la faune, la flore et la fonge de France métropolitaine et outre-mer-Bibliographique de la faune, la flore et la fonge de France métropolitaine et outre-mer
+680342 records from Natural History Museum (London) Collection Specimens
+8 records from Academy of Natural Sciences Entomology Collection
+1 records from Northern Arizona University - Arthropod Collection
+28775 records from Environment Agency England and Wales (2007) freshwater invertebrate species (single species families)
+5 records from UMZC Zoological Specimens
+1 records from HBRG Fungus, Lichen &amp; Lower Plants Dataset
+2 records from The Coleoptera collection (EC) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+16 records from Instituto de Investigación CIBIO, Universidad de Alicante: CEUA
+25 records from Hymenoptera collection of National Museum of Nature and Science
+1193 records from ECatSym: Electronic World Catalog of Symphyta
+177 records from KiEco Marine Ecology: Marine Benthic Invertebrates
+538400 records from Welsh Invertebrate Database (WID)
+235 records from Marine data from Natural Resources Wales (NRW) Technical Support (Research &amp; Monitoring) Contracts, Wales
+22 records from Porcupine Marine Natural History Society Dataset
+74 records from ZFMK Diptera Collection
+136 records from NDFF Butterfly Data
+24192 records from Bee and hoverfly species data from the UK Pollinator Monitoring Scheme
+21931 records from Tachinid Recording Scheme  - GB and Ireland records
+8274 records from Dipterists Forum: Field Week 2022 (Norfolk)
+1 records from Entomological collections (MHNF-ENTOMO) of Musée d'histoire naturelle Fribourg
+1 records from Broward College Insect Collection
+2867 records from All Ireland Marsh Fritillary Database
+3965 records from Odonata records for Dumfries and Galloway
+28 records from Global Gracillariidae
+1553 records from HBRG Falk and Jones Cairngorms records Dataset
+67 records from St Andrews BioBlitz 2014
+19 records from Palaearctic species of Charipinae (Hymenoptera, Figitidae): two new species, synthesis and identification key
+537 records from Dipterists Forum: Project - Conopidae
+7 records from BCE butterfly data in and around Nothern Italy
+55 records from MoJ BioBlitz 2019
+351 records from Glasgow Museums Biological Records Centre: Coleoptera: Silphidae
+118 records from SNH Invertebrate Site Condition Monitoring 2013/14: Black Wood of Rannoch SSSI
+76 records from MoJ BioBlitz April - May 2017
+98 records from Conopidae of Ireland
+375 records from SEWBReC Other Insects (South East Wales)
+288 records from Aculeate Hymenoptera records extracted from Invertebrate Site Register for Scotland
+1 records from 2017 North Devon Area of Outstanding Natural Beauty (AONB) Combe Martin Devon Bioblitz
+1 records from The first checklist of the tribe Olethreutini (Lepidoptera: Tortricidae: Olethreutinae) of Thailand
+11 records from An annotated catalogue of Elachistinae of the World (Lepidoptera: Gelechioidea: Elachistidae)
+41 records from Coleoptera, Lepidoptera, Hymenoptera, Diptera Collection (MHNG-ENTO) of Muséum d'histoire naturelle de Genève
+2 records from Taxonomic review of the genus Parastenolechia Kanazawa (Lepidoptera, Gelechiidae, Litini) from Mainland China, with descriptions of six new species
+1 records from An actualized catalogue of the Psychodidae (Diptera) of Mexico and their known distribution by state
+11 records from ZFMK Odonata collection
+7248 records from DBRC Hemiptera species records 1969 to 2015
+2 records from The West-Palearctic species of the genus Tonnoiriella Vaillant, 1971 (Diptera: Psychodidae, Psychodinae)
+1 records from Cladotanytarsus Kieffer (Diptera: Chironomidae): several distinctive species reviewed on the basis of records from Canada and USA
+2 records from South Dakota State University, The Severin-McDaniel Insect Research Collection
+6388 records from Dipterists Forum - Recording Scheme - Stilt &amp; Stalk Flies
+2 records from S. Knutelski Weevil Collection
+21 records from World Museum Xoridinae (Ichneumonidae) from MIMSY up to December 2022
+1352 records from ICES historical plankton dataset
+5 records from Arthropod Collection (MHNG-ARTO) of Muséum d'histoire naturelle de la Ville de Genève
+29 records from Coleoptera identified from the Bellot Street site, Greenwich, London
+14 records from City of Edinburgh Natural Heritage Service - Bumblebee Walk
+146 records from Coleoptera Palaearctic (Luomus) (PC)
+8 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Abbey Craig SSSI
+1529 records from INNS Data: All Taxa (South East Wales)
+200408 records from Shieldbug and allied species records, from iRecord
+1465 records from Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Unassessed data
+6 records from ZFMK Homoptera collection
+40577 records from Miscellaneous records held by BIS
+1 records from Newly reported genus Batracomorphus Lewis (Hemiptera: Cicadellidae: Iassinae) from Pakistan with description of a new species
+12 records from Diptera Collection of Richard Frey (MZH/Luomus, Helsinki, Finland)
+2 records from ZFMK Hymenoptera collection
+162 records from Dragonfly Records
+1 records from Lampyroidea maculata (Coleoptera: Lampyridae): A new species of lampyrid from Iran
+3 records from Catalogue of Afrotropical Bees
+124 records from Dung Beetles of the Western Palaearctic
+1 records from VIT - Lepidotheca (The Natural History Museum of Álava)
+2807 records from Dipterists Forum - Field Weeks 2000 &amp; 2001 (Cornwall &amp; Devon)
+1 records from Marine Data from The Wildlife Trusts (TWT) Dive Team; 2014-2018
+508 records from Sawflies of Ireland
+2205 records from Glasgow Museums BRC: Ladybirds
+1897 records from Shire Group IDB species data 2004 to present
+479 records from Fleas (Siphonaptera) of Ireland
+1 records from Swiss Psyllid (Hemiptera) Collections - Basel
+1 records from Jewel Bulk Samples Collection
+1338 records from Woodmeadow Invertebrate Survey 2014
+1245 records from Glasgow Museums BRC: Chrysomelidae
+1 records from Coleoptera Collection
+1 records from Collection entomologique Pierre Lachiver
+452 records from Holy Loch Food Web
+16 records from West Palaearctic species of Euura Newman, 1837 (Hymenoptera, Tenthredinidae)
+1 records from A monograph of Afrotropical and Mediterranean Derelomus Schoenherr, 1825 (Coleoptera: Curculionidae) with the descriptions of 14 new species
+749 records from Carabidae of Wales and England
+298 records from Diptera: Tephritoidea + Conopidae
+2 records from Collection Strepsiptera SMF
+95 records from Rhagionidae of Ireland
+1 records from Stick insects of Sulawesi, Peleng and the Sula Islands, Indonesia- a review including checklists of species and descriptions of new taxa (Insecta: Phasmatodea)
+79 records from SNH Invertebrate Site Condition Monitoring 2013/14: Crathie Wood SSSI
+17 records from City of Edinburgh Natural Heritage Service - General Public Records
+149 records from HeathNet data
+10 records from Host associations of Melanterius Erichson (Coleoptera: Curculionidae: Cleogonini), with a diagnosis and delimitation of the genus and description of five new species
+1009292 records from NBIS Records to December 2016
+8825 records from Naturalis Biodiversity Center (NL) - Hymenoptera
+218070 records from Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+35 records from NMNH Paleobiology Specimen Records (USNM)
+168 records from Mississippi Entomological Museum
+433020 records from Butterfly distributions for Scotland  from Butterfly Conservation and the Biological Records Centre
+40 records from DASSH Data Archive Centre - Statutory Surveys
+4 records from A catalogue of the types of Diapriinae (Hymenoptera, Diapriidae) at the Natural History Museum, London
+130 records from Heleomyzidae of Ireland
+2 records from Taxonomic notes on the genera Scatella and Scatophila (Diptera: Ephydridae) with a remark on Trixoscelis chilensis (Trixoscelididae)
+7 records from Revision of the genus Calofulcinia Giglio-Tos (Mantodea: Nanomantidae: Fulciniinae) in Australia
+84 records from Hemiptera Records (West Wales)
+93 records from SNH Invertebrate Site Condition Monitoring 2015: Lindean Reservoir SSSI
+1 records from Bumblebees of the hypnorum-complex world-wide including two new near-cryptic species (Hymenoptera: Apidae)
+6 records from Lonchaeidae of Ireland
+154212 records from Steve Lane - Warwickshire dataset and Personal records from various vice-counties
+12 records from Taxonomic changes in Ichneumonoidea (Hymenoptera), and notes on certain type specimens
+2 records from Holarktische Bienenarten - autochthon, eingeführt, eingeschleppt
+1 records from Review of the genus Tetralicia (Hemiptera: Aleyrodidae) and description of two new species of whiteflies found on avocado trees in Peru
+1 records from A key to species of Hercinothrips, with one new species, and a neotype designation for H. trilineatus (Priesner)
+14 records from Zum Vorkommen zweier heimlicher Blattkäfer in der Schweiz: Cryptocephalus imperialis (Laicharting, 1781) und C. octomaculatus Rossi, 1790 (Coleoptera, Chrysomelidae)
+22 records from Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI potential extension - 2016
+1 records from Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Mecoptera
+2 records from Additions to the British list of Megaselia Rondani (Diptera: Phoridae), including two new species, from the crowns of ancient pollarded trees
+1 records from Reassessment of known fossil Pyraloidea (Lepidoptera) with descriptions of the oldest fossil pyraloid and a crambid larva in Baltic amber
+2 records from A new species of Dinotoperla Tillyard, 1921 from the Shoalhaven Catchment, New South Wales, Australia (Plecoptera: Gripopterygidae)
+12 records from Entomology, Oslo (O) UiO
+44313 records from Fife Nature Records Centre Combined Dataset
+1 records from The Nearctic species of Asindulum Latreille and Macrorrhyncha Winnertz (Diptera: Keroplatidae)
+3 records from Estonian Museum of Natural History Department of Zoology
+15 records from Seasearch Marine Surveys in England
+93 records from Glasgow Museums Biological Records Centre: Coleoptera: Oedemeridae
+84 records from SNH Invertebrate Site Condition Monitoring 2015: Dunhog Moss SSSI
+2423 records from Illinois Natural History Survey Insect Collection
+24 records from Nine new species of Agromyzidae from North Carolina, USA, with new host and distribution records for additional species
+55 records from SNH Invertebrate Site Condition Monitoring 2015: Rinns of Islay SSSI
+1713 records from NABU|naturgucker
+57 records from Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI - 2010
+19 records from SNH Invertebrate Site Condition Monitoring 2015-16: Crannach Wood SSSI
+45 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Fannich Hills SSSI
+3 records from Different continents, same species? Resolving the taxonomy of some Holarctic Ancylis Hübner (Lepidoptera: Tortricidae)
+4 records from Empria and Monsoma in Japan
+26 records from SNH Invertebrate Site Condition Monitoring 2013/14: Loch Lubnaig Marshes SSSI
+5 records from A new genus Viperinus Park with descriptions of two new species, and two new species of the genus Protolychnis Meyrick, 1925 (Lepidoptera, Gelechioidea, Lecithoceridae) in Kenya and Tanzania, with a checklist of the world species
+6 records from New records of leaf-mining Tortricidae (Lepidoptera) in North America, with the description of a new species of Grapholita
+1 records from Melanostoma mellarium (Meigen, 1822) (Diptera: Syrphidae) en Suisse et au Liechtenstein, avec une clef pour la distinguer des espèces proches
+2 records from Taxonomic revision of the Campoplex difformis group (Ichneumonidae, Campopleginae), with particular reference to species of economic importance
+69 records from Lyman Entomological Museum (LEMQ)
+43 records from New Zealand Arthropod Collection (NZAC)
+1 records from Batriscydmaenus Parker and Owens, New Genus, and Convergent Evolution of a “ Reductive ” Ecomorph in Socially Symbiotic Pselaphinae (Coleoptera: Staphylinidae)
+1 records from Review of the chewing louse fauna of the invasive common myna (Acridotheres tristis), with new records from Palestine and a redescription of Brueelia chayanh Ansari, 1955 (Phthiraptera, Ischnocera, Brueelia-complex)
+101 records from IberArthro: A database compiling taxonomic and distributional data on Ibero-Balearic arthropods
+25420 records from Gloucestershire Historic Wildlife Sightings prior to 1st Jan 2000
+2 records from CAS Entomology Type (TYPE)
+698082 records from BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+1 records from Tampere TMPM Coleoptera collections
+779 records from Ladybirds of Ireland
+14 records from CardObs : Observations naturalistes issues de l'outil CardObs-Données naturalistes de Bruno OGER
+203 records from General Biodiversity Records from Ireland
+519 records from Natural History Collections of the Faculty of Biology AMU
+3 records from Lepidoptera collection of Hannu Saarenmaa
+352 records from Triplehorn Insect Collection, The Ohio State University
+36 records from ZOBODAT (Zoological Botanical Database)
+3 records from Invertebrate Zoology Division, Yale Peabody Museum
+1 records from Sufetula culshawi sp. nov. (Lepidoptera, Crambidae, Lathrotelinae): a previously unrecognised species affecting cultivated palms
+1 records from Aeolothrips neyrizi, a new species of the genus Aeolothrips (Thysanoptera: Aeolothripidae) from southern Iran
+408 records from NMNH Material Samples (USNM)
+1 records from Revision of the genus Tephrochlaena, with a key to genera of Palaearctic Heteromyzinae (Diptera: Heleomyzidae)
+271 records from Department of Agriculture Environment and Rural Affairs (DAERA) Marine and Fisheries Division Marine Survey Data
+27 records from RSPB Lochwinnoch incidental species records
+865 records from Australian Museum provider for OZCAM
+816948 records from Cambridgeshire and Peterborough Environmental Records Centre data
+1101524 records from Suffolk Biodiversity Information Service (SBIS) Dataset
+4 records from HBRG Other Invertebrates Dataset
+51231 records from iSpot British Isles observations
+25 records from University of Central Florida Collection of Arthropods (UCFC)
+17 records from Butterflies of Ireland pre-2022
+9336 records from INSDC Sequences
+8281 records from Dr Mary Gillham Archive Project
+359 records from Texas A&amp;M University Insect Collection
+5 records from LifeWatch observatory data: phytoplankton observations by imaging flow cytometry (FlowCam) in the Belgian Part of the North Sea
+3437 records from The CPR Survey
+9722 records from SmartRivers - Aquatic invertebrate occurrence and pressure biometric scores in English, Welsh and Scottish rivers
+291 records from Earth Guardians Weekly Feed
+22 records from Marine Offshore Seabed Survey data held by JNCC
+381 records from Australian National Insect Collection
+79203 records from Invertebrate Common Standards Monitoring and ISIS Test Data
+859 records from KwaZulu-Natal Museum-Entomology-collection
+106 records from Cornell University Insect Collection (CUIC)
+74 records from Diptera Holarctic (MZH/Luomus, Helsinki, Finland)
+6 records from Estonian Naturalists’ Society
+39 records from Hemiptera (Homoptera) collection of National Museum of Nature and Science
+8839 records from Bringing Reedbeds to Life Invertebrate Survey of three key reedbed sites in England in 2009, 2010
+2 records from SEWBReC Myriapods, Isopods, and allied species (South East Wales)
+9871 records from Micro-moths distribution for Dumfries and Galloway
+1982 records from Distribution Atlas of Butterflies in Ireland 1979 (An Foras Forbartha)
+353 records from Ty Canol National Nature Reserve (NNR) Species Inventory
+7046 records from NE Scotland beetle records 1800-2014
+1 records from Colección Taxonómica Nacional de Insectos “Luis María Murillo” (CTNI)
+5379 records from East Anglian Fen Invertebrate Survey: Coleoptera
+6 records from Notebook, general observations
+2366 records from Herefordshire Wildlife Trust - Records
+1 records from BIOMAERL.Maerl Biodiversity.Functional Structure And Antropogenic Impacts (1996-1998).
+4 records from INHS wet collections accession
+16 records from Hymenoptera World (Luomus)
+501 records from NHMD Entomology Collection
+1 records from Platynotina (Coleoptera: Tenebrionidae) collections on the World
+4166 records from RISC Heteroptera Non-Native Species Records
+1 records from The University and Jepson Herbaria -- Algae
+25 records from Lothian Wildlife Information Centre surveys (Non-invertebrate - general)
+1 records from MnhnL various project records, Recorder-Lux database
+796 records from Entomologische Sammlung (ETHZ-ENT) of Eidgenössische Technische Hochschule Zürich
+130 records from Museums Victoria provider for OZCAM
+2188 records from Lund University Biological Museum - Insect collections Inventory
+798 records from Natural History Museum Aarhus Freshwater Collection
+70 records from University of Arizona Insect Collection
+376 records from New Zealand Arthropod Collection - Symbiota
+97686 records from Miscellaneous records held on the Cofnod database
+1 records from Colección de Entomología del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-E)
+1796 records from Protected and Invasive Species Records Collected Through Environment Agency Survey 1995 - 2021
+37 records from Frost Entomological Museum
+553 records from RSMP Baseline Dataset
+272298 records from Water Beetle Surveys from Britain and Ireland
+137115 records from Cranefly (Diptera; Tipuloidea) records for Britain to 2016
+48454 records from NRW Regional Data: South East Wales Non-sensitive species
+3 records from Manchester Museum, University of Manchester, Botany Collection
+92456 records from An 'as-complete-as-possible' Sussex Beetle Records dataset covering the period to March 2017
+8 records from R. M. Bohart Museum of Entomology
+2 records from Field Museum of Natural History (Geology) Fossil Invertebrates Collection
+18733 records from Stackpole National Nature Reserve Species Inventory and Ad-hoc Sightings from Across Pembrokeshire
+43 records from Naturalis Biodiversity Center (NL) - Coleoptera
+298 records from NSW DPI Biosecurity Collections
+199 records from PlutoF platform reference-based occurrences
+61366 records from Derek Lott Coleoptera Dataset
+1 records from CM Vertebrate Paleontology Collection
+4 records from Entomological Collection (GNM)
+32 records from San Diego Natural History Museum Entomology Department
+3 records from Mosquito Alert Dataset
+1 records from New Brunswick Museum - Insects
+49577 records from UK abstract from Nottingham City Museums &amp; Galleries (NCMG) Insect Collection Baseline database
+70 records from Xeno-canto - Orthoptera sounds from around the world
+39 records from NE Scotland fungus and lichen records 1800-2010
+14219 records from iRecord Surveys
+94 records from MPM Milwaukee Public Museum Invertebrate Zoology Collection
+52 records from University of Alberta E. H. Strickland Entomological Museum (UASM)
+48104 records from SEWBReC Bees, Wasps and Ants (South East Wales)
+1 records from Insectarium de Montréal (IMQC)
+45230 records from Water Bug (aquatic Heteroptera) data for Britain
+649 records from Environmental Monitoring Database (EMD) Species data 1987 to 2015
+24 records from Marine benthic dataset (version 1) commissioned by UKOOA
+1 records from University of Michigan Museum of Paleontology - Invertebrates
+1 records from University of Georgia Collection of Arthropods
+36193 records from Odonata Records (West Wales)
+14 records from Coleção de Hymenoptera do MZUSP
+5 records from Minor insect orders (Luomus)
+38197 records from Stonefly (Plecoptera) Data for Great Britain for 1955-2005
+2 records from Insect specimens of Himeji City Science Museum
+52 records from ISEA PAS European Diptera Collection
+2969 records from WTSWW Data: All Taxa (West Wales)
+2 records from ZMUO Common invertebrate collection
+931 records from Natural England Marine Monitoring surveys
+4 records from The Orthoptera collection (EO) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+1 records from Kent Wildlife Trust Shoresearch Intertidal Survey 2004 onwards
+2 records from ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2020-2021
+4 records from Virginia Polytechnic Institute and State University Insect Collection
+4 records from Coleção de Lepidoptera do MZUSP
+1 records from DIPOL
+21239 records from Odonata records from Kent's County Dragonfly Recorders (1976-2005)
+2 records from INATURA
+13528 records from Scottish river macro-invertebrate records from 2007 collected by SEPA
+8688 records from Lothian Wildlife Information Centre surveys (Invertebrates - general)
+117577 records from Collated IRTU Freshwater Surveys
+12195 records from Silphidae Recording Scheme - data verified via iRecord
+48 records from Marine Nature Conservation Review (MNCR) and associated benthic marine data held and managed by CCW
+723 records from Lothian Wildlife Information Centre Secret Garden Survey
+9659 records from Sciomyzidae Recording Scheme
+704 records from LWIC - Local Patch Project
+9 records from University of Florida Lepidoptery
+103 records from South Australian Museum Adelaide provider for OZCAM
+48 records from The Suguru Igarashi Insect Collection (Lepidoptera: Lycaenidae) of The University Museum, The University of Tokyo
+1 records from Invertebrate fossils
+24 records from USMB Insecta
+3 records from The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+162 records from Denver Museum of Nature &amp; Science - Entomology
+114 records from Fermanagh Flora
+11 records from Coleoptera Eastern Fennoscandia (Luomus) (FC)
+633 records from Biofokus
+9292 records from VectorNet observations
+3 records from Macaulay Library Audio and Video Collection
+9 records from Cleveland Museum of Natural History
+348 records from Entomological Collections (NHRS), Swedish Museum of Natural History (NRM)
+14 records from Royal Ontario Museum - Entomology Collection
+9 records from University of Texas, Biodiversity Center, Entomology Collection (UTIC)
+69 records from Recent Invertebrates Specimens
+1 records from VIT-Coleopterotheca (The Natural History Museum of Álava)
+8 records from University of New Hampshire Collection of Insects and Arthropods (UNHC-UNHC)
+239 records from Lepidoptera World (Luomus) (LEPW)
+320994 records from BeeWalk bumblebee distributions for Great Britain 2008-2022
+26 records from Marine Life Information Network (MarLIN) marine survey data (Professional)
+107385 records from Orthoptera and Allied Insects of the British Isles data from iRecord
+1 records from ClimateWatch
+71 records from hymenoptera
+10052 records from Bees of Ireland
+83036 records from Plant bugs and allied species records, from iRecord
+61 records from Insect specimen database of Kanagawa Prefectural Museum of Natural History
+154 records from Marine Intertidal Phase 1 Species Dataset from the Countryside Council for Wales 1996-2005
+1 records from Coleoptera World (Luomus) (CW)
+1752 records from TWIC Biodiversity Field Trip Data (1995-present)
+129 records from Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Entomological Collection
+19 records from Entomology Collection at the Natural History Museum of Utah
+76 records from LACM Entomology Collection
+41843 records from Aquatic Heteroptera Dataset
+12 records from Naturkundemuseum im Ottoneum Kassel, Entomological Collection
+3 records from Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Hemiptera
+102911 records from Coleoptera: Records for Kent
+4768 records from Staffordshire Wildlife Trust Nature Reserves Inventory
+129 records from J. B. Wallis / R. E. Roughley Museum of Entomology
+40106 records from Soldier Beetle and Jewel Beetle (Coleoptera; Cantharoidea and Buprestoidea) records for Britain and Ireland to 2000
+1 records from Arizona State University Charles W. O'Brien Collection
+336710 records from Bee, wasp and ant (Hymenoptera: Aculeata) records verified via iRecord
+7 records from Naturalis Biodiversity Center (NL) - Porifera
+1751 records from Invasive Species and Pests
+84 records from IZIKO South Africa Museum Collection (1800-2013)
+11 records from Invertebrate collection of Jyväskylä University Museum
+254947 records from Merseyside BioBank (verified)
+196 records from Florida State Collection of Arthropods
+24970 records from Heteroptera: Records for Kent
+129 records from Ouellet-Robert Entomological Collection (QMOR) - Specimens
+53 records from University of Michigan Museum of Zoology, Division of Insects
+2 records from CHAS Entomology Collection (Arctos)
+17580 records from Invertebrate records from sites that are mainly across Scotland
+12 records from UTEP Insects (Arctos)
+1 records from Naturalis Biodiversity Center (NL) - Pisces
+1 records from Alabama Museum of Natural History Insect Specimens (Arctos)
+55 records from Afromoths, online database of Afrotropical moth species (Lepidoptera)
+18943 records from Riparia - riparian habitat surveys
+80103 records from Bob Merritt Coleoptera Dataset
+15119 records from KiEco Freshwater Ecology: Lake Macroinvertebrates
+18163 records from Lacewings and allied insects records from Britain and Ireland to 1999
+107432 records from CEDaR Online Recording
+446 records from Natural History Museum Rotterdam - Specimens
+1294 records from Brecknock Wildlife Trust (Now WTSWW Brecknockhire) records held by BIS
+514 records from Essig Museum of Entomology
+208442 records from Mayfly (Ephemeroptera) Data for Great Britain for 1906-2017
+9 records from Price Institute of Parasite Research, School of Biological Sciences, University of Utah
+163 records from North Sea Benthos Survey
+10 records from Collection Thysanoptera SMF
+92 records from ZFMK Lepidoptera collection
+1 records from MfN - Fossil invertebrates Ia
+175733 records from NE Scotland butterfly and moth records 1800-2010
+35729 records from Isle of Wight Notable Species
+1 records from New Mexico State Collection of Arthropods
+2 records from The Rock Pool Project database - intertidal species records from rocky shore habitats - from February 2019
+77543 records from River macroinvertebrate data for 2005 and 2006
+4009 records from NRW Regional Data: North Wales
+43 records from Waite Insect and Nematode Collection
+53853 records from Tullie House Museum Natural History Collections
+4 records from Biodiversity4all Research-Grade Observations
+153 records from Temporal variation in pesticide biodegradation
+673 records from VectorDistributionStatus
+64 records from Entomology collection, UiT Tromsø Museum
+59152 records from SEWBReC Beetles (South East Wales)
+1 records from Marine invertebrate collection NTNU University Museum
+5 records from Ibaraki Nature Museum, Arthropoda collection
+1180 records from World Auchenorrhyncha Database
+16 records from Coleção Entomológica do Museu Nacional / UFRJ
+13997 records from DNSM: Durban Natural Science Museum Insect Collection (1900-2011)
+3 records from William F. Barr Entomological Museum
+27 records from Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Coleoptera
+37 records from Naturalis Biodiversity Center (NL) - Hemiptera
+22 records from MIZ PAS Zoological Collections
+102 records from KZNM-PINDIP-DIPTATEACH
+12 records from NORSC - Sciaroidea, UiT Tromsø Museum
+447 records from Dorset Sites of Nature Conservation Interest (SNCI) species records 2000-2008
+21 records from The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+8 records from Museu de Ciències Naturals de Barcelona: MCNB-Art
+60 records from UMCS Entomological Collection
+5 records from Hymenoptera Institute Collection
+1 records from Ghent  University - Zoology Museum - Insect collection
+1 records from Natuurmuseum Brabant, Tilburg - Invertebrates
+4 records from DORSA - German Orthoptera Collections
+5 records from Consultancy Contract Surveys - Marine Species Records
+10491 records from Norfolk and Suffolk Broads Invertebrate Data 2007-2008
+83 records from ISEA PAS Lepidoptera Collection
+62350 records from Soldier Beetles and Allies Recording Scheme - data verified via iRecord
+1 records from Ehime University Coleoptera Collection
+5847 records from Sepsidae (Diptera) records from Britain and Ireland to 1985
+554 records from Species within North Ayrshire from 1984 - Present
+790 records from Wasps of Ireland
+114 records from High occurrence of jellyfish predation by black-browed and Campbell albatross identified by DNA metabarcoding 2017
+3253 records from Hemiptera: Auchenorrhyncha:  Records for Kent
+844 records from Dorset SW Pilot species dataset
+1024 records from Species on the Edge - Great Yellow Bumblebee Monitoring - Coll and Tiree
+1315 records from Lothian Wildlife Information Centre - General Records (1900-1989)
+2245 records from Muscidae (Diptera) records from Britain and Ireland to 1985
+5 records from Odonata Collection of Zoology Museum - Sapienza University
+2624 records from Other beetle records from National Stag Beetle Surveys 2006-2021
+29 records from Darwin Mounds
+150 records from Species found in the NOMS estate 2005 - Present
+1282 records from Woodmeadow Invertebrate Survey 2019
+1503 records from Woodmeadow Invertebrate Survey 2016
+55360 records from Leicestershire and Rutland Environmental Records Centre records pre 2000
+6 records from An annotated catalog of the type material of Adephaga and Myxophaga (Coleoptera) deposited in the Florida State Collection of Arthropods in Gainesville, Florida, United States of America
+4 records from The Shigeru Eda Insect Collection of The University Museum, The University of Tokyo
+1171 records from SEWBReC Lacewings and Allies (South East Wales)
+58 records from St Andrews BioBlitz 2016
+585 records from Ciidae (Coleoptera) records from Britain and Ireland to 2004
+16 records from Species Records for John Muir Trust Properties 2007-2009
+2 records from South Lanarkshire peatland records 2013
+84 records from A revision of the Myopsalta crucifera (Ashton) species group (Hemiptera: Cicadidae: Cicadettini) with 14 new species from mainland Australia
+208 records from Sepsidae of Ireland
+2 records from Colección de Entomología - Hymenoptera - Parasitica
+33 records from New state and host records for Agromyzidae (Diptera) in the United States, with the description of thirty new species
+10 records from ZFMK Plecoptera collection
+407 records from Noble Chafer: Post-BAP records from 1998 onwards
+3 records from Read between the lineata: A revision of the tattooed wasps, Zagrammosoma Ashmead (Hymenoptera: Eulophidae), with descriptions of eleven new species
+44 records from Revision of the genus Dinotoperla Tillyard, 1921 (Plecoptera: Gripopterygidae) using morphological characters and molecular data: Establishes two new genera, three new species and updates the larval taxonomy
+177 records from DBRC Trichoptera 1974 - 2015
+12 records from Bees of the Hemihalictus series of Lasioglossum Curtis (Hymenoptera, Halictidae) in South Korea
+263 records from Ants: Formica Exsecta Records (Scotland)
+125 records from SNH Invertebrate Site Condition Monitoring 2013/14: North Rothiemurchus Pinewood SSSI
+59 records from Table 3. Biomass of the benthic infauna of the North Sea, 1980-1985
+42 records from SNH Invertebrate Site Condition Monitoring 2013/14: Flanders Moss SSSI
+20 records from A key to European species of Hyposoter Förster, 1869 (Ichneumonidae: Campopleginae) with descriptions of 18 new species, and notes on all included species
+1 records from Revision of Alaptus (Hymenoptera: Mymaridae) in the Holarctic region, with taxonomic notes on some extralimital species
+19 records from An annotated checklist of scale insects (Hemiptera: Coccoidea) of Saint Lucia, Lesser Antilles
+89 records from Great British Bee Count 2016 - Stage 2 (records verified from photo)
+2 records from Bee Flies of Ireland
+45 records from Pallopteridae of Ireland
+103 records from PTES - incidental Coleoptera records from the 2006-2007 National Stag Beetle Survey
+1 records from Catalogue of the Australian Eumeninae (Hymenoptera: Vespidae)
+8851 records from Odonata records from RSPB Reserves 1970-2009
+7 records from Hymenoptera (NATUREUM:DZ-HYMENO) of Muséum cantonal des sciences naturelles, Lausanne, Département Zoologie
+5779 records from Sepsidae Recording Scheme - records verified via iRecord
+1 records from FBIP: Systematics of South African Hymenoptera
+28 records from Aphidoidea Collection
+582 records from Mayflies (Ephemeroptera) of Ireland
+4 records from The Suguru Igarashi Insect Collection (Lepidoptera: Pieridae) of The University Museum, The University of Tokyo
+17 records from City of Edinburgh Natural Heritage Service - Ranger Patrol Records
+2 records from Abundance and biomass of infaunal species as part of Essential fish habitat surveys, Co. Down Coast (Northern Ireland) 2012-2013.
+5 records from Global occurrence records of Robinia specialist insect herbivores
+3711 records from Dipterists Forum: Field Week 2015 (Nottinghamshire)
+1136 records from Wildwatch North Pennines AONB project records for Cumbria
+52 records from Churchyards for London
+1 records from Back from the Brink Willow Tit Annual Survey Data
+115595 records from Argyll Biological Records Dataset
+34 records from European Lepidoptera Observations by Donald Hobern
+1972 records from SEWBReC Mayflies and Stoneflies (South East Wales)
+1158 records from Dipterists Forum: Field Week 2002 (Inverness)
+48 records from Priest Pot species list, Cumbria, Britain
+1 records from DASSH Data Archive Centre expert sightings records
+66 records from Curated barcode collection of Auchenorrhyncha, processed by Symbiosis Evolution Group, Faculty of Biology, Jagiellonian University
+3 records from ZMUT Type specimen collections of Turku University
+91 records from TWIC - Identification Workshops dataset
+2 records from Review of Gonatocerus (Hymenoptera: Mymaridae) in the Neotropical region, with description of eleven new species
+9 records from 2014 Scottish Natural Heritage (SNH) site check survey of intertidal sediment flats of Loch Moidart, Lochaber
+1 records from Revision of the genus Phanerotoma Wesmael (Hymenoptera, Braconidae, Cheloninae) from China, with descriptions of twenty-four new species
+1 records from Revision of the Old World species of the genus Tephritis (Diptera, Tephritidae) with a pair of isolated apical spots
+183 records from SNH Invertebrate Site Condition Monitoring of Invertebrate Assemblages at ten SSSIs, 2011-12
+1 records from The empidoid flies (Diptera: Empidoidea, exclusive of Dolichopodidae) of the Russian Arctic islands and Svalbard Archipelago
+7 records from Chinese species of Pediobius Walker (Hymenoptera: Eulophidae)
+1 records from A taxonomic revision of the Formica rufibarbis Fabricius, 1793 group (Hymenoptera: Formicidae).
+316 records from Glasgow Museums Biological Records Centre: Orthoptera
+20 records from The Palaearctic types of Chrysididae (Insecta, Hymenoptera) deposited in the Linsenmaier collection. Part 2. Elampini: genus Hedychridium Abeille de Perrin, 1878
+39 records from Lice (Phthiraptera) of Ireland
+28 records from Citizen Science Cranefly Records For Ireland
+3 records from 2023 NRW Carmarthen Bay and Estuaries SAC sediment monitoring
+95 records from BTCV wildlife counts recording workshops
+2 records from Archbold Biological Station Arthropod Collection
+5 records from ISEA PAS Coleoptera: Curculionidae and Chrysomelidae Collection
+43976 records from RHS lily beetle (Lilioceris lilii) monitoring
+26341 records from SEWBReC Dragonflies and Damselflies (South East Wales)
+16244 records from Bob Merritt dataset of Nottinghamshire invertebrates
+277 records from INNS records held by BIS in Powys and Brecon Beacons National Park
+19107 records from Cerambycidae Dataset
+2 records from DASSH Data Archive Centre volunteer survey data
+72 records from 1915-2016 Department for Environment Food &amp; Rural Affairs (Defra), Marine Strategy Framework Directive (MSFD) Collation of invasive non-indigenous species
+8789 records from UK Biodiversity Action Plan Invertebrate Data for Wales
+1 records from ZFMK Heteroptera collection
+2 records from University of North Texas Elm Fork Insect Collection
+84 records from PANGAEA - Data from circulation and transfer of pollutants in the North Sea (ZISH)
+16 records from 2015 Orkney Islands Council Harbour Authority (OICHA) Marine Non-Native Species Monitoring Programme
+577 records from East Ayrshire Species Database
+591 records from Hibernating Ichneumonidae records in the Western Palearctic
+1900 records from Flickr (01) Shieldbugs &amp; allied species
+8 records from Robberflies of Ireland
+2 records from Fossil butterflies, calibration points and the molecular clock (Lepidoptera: Papilionoidea)
+967 records from Hymenoptera Records up to April 2010
+2 records from British records of herpetofauna published in the British Herpetological Society's journals
+113 records from RE1
+198 records from SNH Invertebrate Site Condition Monitoring 2015-16: Rum SSSI
+428 records from SNH Invertebrate Site Condition Monitoring 2013/14: Abernethy Forest SSSI
+16 records from Longhorn Beetles of Ireland
+3 records from The species of Eilema Hübner, [1819] sensu lato present in Europe and North Africa (Lepidoptera: Erebidae: Arctiinae: Lithosiini)
+535 records from OWRG Insects
+25 records from Freshwater Site Visits and Ad-hoc Sightings
+2 records from Catalogue of the Egyptian Ephydroidea (Diptera: Schizophora: Acalyptratae)
+10 records from An annotated taxonomic checklist of the Neotropical Gracillariidae (Lepidoptera) with links to the information on host plants and parasitoids
+1 records from New species and records of Stenus (Nestus) of the canaliculatus group, with the erection of a new species group (Insecta: Coleoptera: Staphylinidae: Steninae)
+6591 records from SER Site-based Surveys
+2 records from New larval host records, parasitoid records, and DNA barcoding data for North American leaf-mining leaf beetles (Coleoptera: Chrysomeloidea)
+2 records from 2009 The Marine Biological Association of the UK (MBA) Wembury Bioblitz Survey
+45 records from Review of the Australian Cyllodini (Coleoptera: Nitidulidae: Nitidulinae), with descriptions of new taxa, and notes on the genus Macleayania (Nitidulini)
+13118 records from Patrick Roper’s Notebooks
+132 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Lepidoptera_Nymphalidae_Palearctic
+313 records from iSpot (2008-2010): Shieldbugs &amp; allied species
+3 records from Insect Collection from the Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Portugal
+82 records from Revision of the Eurasian species of Aegilips Haliday, 1835 (Hymenoptera: Figitidae: Anacharitinae)
+222 records from SNH Invertebrate Site Condition Monitoring 2013/14: River Spey - Insh Marshes SSSI
+22 records from Porcupine Marine Natural History Society Dataset
+2 records from ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020
+61 records from NHMO DNA Bank Arthropod collection
+685 records from R.H.Wardell - Cardiff Nature Conservation Strategy - 1991 - 1998
+38 records from Fiocruz/CEIOC - Coleção Entomológica do Instituto Oswaldo Cruz
+20 records from Species Records for John Muir Trust Properties Nevis, Sandwood, Quinag and Schiehallion 2010.
+879 records from Auckland Museum Entomology Collection
+23412 records from SEWBReC Hemiptera - True Bugs (South East Wales)
+168122 records from Coleoptera records from iRecord for families not covered by a recording scheme
+1105 records from Dragonfly Ireland 2019 to 2024
+78 records from SNH Invertebrate Site Condition Monitoring 2013/14: Eastern Cairngorms SSSI
+5 records from Revisions to the faunas of Andrena of the Iberian Peninsula and Morocco with the descriptions of four new species (Hymenoptera: Andrenidae)
+5 records from Revision of Australian Ectomocoris with the description of nine new species (Hemiptera: Heteroptera: Reduviidae)
+2 records from Lothian and Borders Mammal Group recording
+3 records from Revision of Acroclisoides Girault &amp; Dodd, 1915 (Chalcidoidea, Pteromalidae, Metasteninae)
+12276 records from Water Bug (Aquatic Heteroptera) data for Britain - records verified via iRecord
+3 records from Collection Trichoptera - SMF
+4 records from Illustrated key to genera and catalogue of Mymaridae (Hymenoptera) in America north of Mexico
+4 records from Chilocoris capensis n. sp., the first species of the genus Chilocoris Mayr, 1865 (Hemiptera: Heteroptera: Cydnidae) recorded in the Republic of South Africa with an annotated checklist of South African burrower bugs
+18 records from Black fungus gnats (Diptera: Sciaridae) found in association with cultivated plants and mushrooms in Australia, with notes on cosmopolitan pest species and biosecurity interceptions
+66 records from Wisteria scale (Eulecanium excrescens) records acquired by the Royal Horticultural Society
+136 records from Charipinae from UK
+55 records from Pittosporum sucker (Trioza vitreoradiata) records aquired by the Royal Horticultural Society
+3 records from A revision of Japanese Torymus Dalman (Hymenoptera: Torymidae)
+1 records from Taxonomic review of the genera Micridium Motschulsky, 1869 and Micridina Johnson, 1969 (Coleoptera: Ptiliidae) with eleven new species including the first records from South America and Madagascar
+34 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Minto Craigs SSSI
+2 records from City of Edinburgh Natural Heritage Service - Harperrig Otter Survey
+3 records from Three new hoverfly species from Greece (Diptera: Syrphidae)
+47 records from Coleoptera identified from the Horton Kirby site, near London
+1 records from On Anchonidium Bedel, 1884 sensu stricto, with descriptions of two new species from the Iberian peninsula (Coleoptera, Curculionidae: Molytinae)
+101 records from DBRC Ephemeroptera species records 1975 to 2015
+5 records from Carnidae (Diptera) in the Canadian National Collection of Insects (Ottawa), with the description of five new species
+2 records from Two new dragonflies (Odonata: Anisoptera) from the Miocene of Carinthia (Austria)
+13 records from Coleção de Diptera do MZUSP
+1 records from Revision of the Australian species of Agrotera Schrank (Lepidoptera: Pyraloidea: Crambidae: Spilomelinae)
+11282 records from Dragonflies and Damselflies 1862-2013
+16 records from Institut Mediterrani d'Estudis Avançats (CSIC-UIB): IMEDEA-INSECTA
+10 records from 1778-1998 Ivor Rees North Wales Marine Fauna Ad-hoc sightings shore and ship-based surveys
+11 records from Revision of the Australian leaf beetle genus Cheiloxena Baly, 1860 (Coleoptera: Chrysomelidae: Spilopyrinae)
+11 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Glen Tarff SSSI
+1 records from Macrocydia divergens, a new genus and species of Grapholitini (Lepidoptera: Tortricidae: Olethreutinae) from Central America
+14 records from Coleoptera identified from the Crossness Sewage Works site, Bexley, London
+1 records from Dolichochorus Strobl 1904: a valid genus of Mesochorinae (Hymenoptera: Ichneumonidae: Mesochorinae)
+8 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Ardgour Pinewoods SSSI
+7 records from Coleoptera identified from the Poplar High Street site, Tower Hamlets, London
+1 records from A new scale insect host family (Hemiptera: Asterolecaniidae) for Aphytis (Hymenoptera: Aphelinidae) in China
+3 records from Biology, early stages and description of a new species of Adelognathus Holmgren (Hymenoptera: Ichneumonidae: Adelognathinae)
+1 records from The British species of Enicospilus (Hymenoptera: Ichneumonidae: Ophioninae)
+6805 records from Dipterists Forum: Field Week 2017 (Snowdonia)
+2 records from Tasmanian Museum and Art Gallery provider for OZCAM
+60 records from Bryotropha (Lepidoptera: Gelechiidae) in Western Palaearctic
+5377 records from Stonefly (Plecoptera) records from Britain and Ireland, via iRecord
+5627 records from Dipterists Forum: Field Week 2019 (Stirling)
+2 records from Ad-hoc Bat Records from Across Wales
+56 records from R. Manning's Records
+3 records from Leaf-feeding species of the genus Liothrips from China (Thysanoptera, Phlaeothripinae)
+1 records from Checklist of the tribe Enarmoniini Diakonoff, 1953 (Lepidoptera: Tortricidae) of Taiwan, with description of one new species
+105 records from Noble Chafer: Pre-BAP records prior to 1998
+15 records from City of Edinburgh Natural Heritage Service - Bonaly Moorland Moth Survey
+3 records from Revision of Cephennomicrus of Australia (Coleoptera, Staphylinidae, Scydmaeninae)
+2 records from A journey through the history of the British Chrysididae (Hymenoptera): unexpected taxonomic problems, new records and description of a new species
+3 records from Revision of the types of species of Alloxysta described by Cameron and Fergusson (Hymenoptera: Figitidae: Charipinae) and deposited in the Natural History Museum (London), including a key to the fauna of Great Britain
+1 records from Description of Acanthonavis deflexa gen. et sp. nov. (Hemiptera: Aleyrodidae) from the Nicobar Island, India, and generic re-definition of Editaaleyrodes David
+1 records from Immature stages of the Australian flower-loving fly Apiocera striativentris (Diptera: Apioceridae)
+1 records from The Palaearctic genus Belothrips Haliday (Thysanoptera: Thripidae), with new synonyms and new combinations
+3 records from Coleoptera identified from the Hornchurch Marshes site, Dagenham, London
+263 records from 2017 Onwards Rare Invertebrates in the Cairngorms Kentish Glory Survey Data
+14 records from Revision of the genus Mniophila S, 1831 (Coleoptera: Chrysomelidae)
+8 records from Shieldbug Records
+146 records from SNH Invertebrate Site Condition Monitoring 2013/14: Lismore Lochs SSSI
+1 records from Revision of the genus Conicera Meigen (Diptera, Phoridae) from China
+198 records from LWIC - Orange Tip Survey
+3 records from A review of West Palaearctic Hoplocampa species, focussing on Sweden (Hymenoptera, Tenthredinidae)
+1 records from Stigmella species on the Wild Service Tree, Torminalis glaberrima, confused, overlooked and found again (Lepidoptera, Nepticulidae)
+5 records from The Wildlife Information Centre - LBS Network Strategic Survey
+13 records from A revision of the genus Rhinotorus Förster, 1869 (Hymenoptera, Ichneumonidae, Ctenopelmatinae), with descriptions of three new species and an illustrated identification key
+76 records from SNH Invertebrate Site Condition Monitoring 2015: Lurgie Loch SSSI
+75 records from Site Condition Monitoring of Marsh Fritillary on designated sites in west Scotland 2014-15
+5 records from Review of the European species of Diglyphus Walker (Hymenoptera: Eulophidae) including the description of a new species
+77 records from SNH Invertebrate Site Condition Monitoring 2015: Perchhall Loch SSSI
+11 records from Taxonomic history and review of the Förster genera of Platygastridae (Hymenoptera: Platygastroidea)
+1 records from Integrative taxonomy resuscitates two species in the Lasioglossum villosulum complex (Kirby, 1802) (Hymenoptera: Apoidea: Halictidae)
+65 records from SNH Invertebrate Site Condition Monitoring 2015: Mount Bog SSSI
+52 records from Records by Russell Miller
+55 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Cragbank and Wolfehopelee SSSI
+1 records from Meniscus Midges (Dixidae) of Ireland
+9 records from 2024 Fisheries Industry Science Partnership (FISP) North Eastern Inshore Fisheries and Conservation Authority (NEIFCA) North East Inshore Habitat and Species Abundance Video Tow
+60 records from Glasgow Museums Biological Records Centre: Diptera: Hippoboscoidea
+1 records from Taxonomic review of the Craniophora s. l. (Lepidoptera, Noctuidae, Acronictinae) generic complex with description of 8 new genera and 13 new species
+1 records from Systematic revision of Central American Calligrapha Chevrolat of the subgenus Erythrographa subgen. nov. (Coleoptera: Chrysomelidae, Chrysomelinae)
+7 records from Two new species of Maiestas Distant (Hemiptera: Cicadellidae: Deltocephalinae: Deltocephalini) with a new record from Australia
+49 records from City of Edinburgh Natural Heritage Service - Green Hairstreak Survey
+31 records from Craigellachie NNR invertebrate records compiled from SNH files
+31 records from City of Edinburgh Natural Heritage Service - Large Red Damselfly Survey
+2 records from Rhigognostis senilella (Zetterstedt, 1839) and R. marmorosella (Wocke, 1849): two valid species distinguishable in genitalia (Lepidoptera, Plutellidae)
+1 records from A new species of Eulagius M, 1845 (Coleoptera: Mycetophagidae) from Iran
+1 records from The Palaearctic types of Chrysididae (Insecta, Hymenoptera) deposited in the Linsenmaier collection. Part 3. Elampini: genus Hedychrum Latreille
+1 records from World species of Arthrolytus (Hymenoptera Pteromalidae, Pteromalinae), with description of new species
+23 records from 2017 Onwards Rare Invertebrates in the Cairngorms Northern Silver Stiletto Fly Survey Data
+20 records from Coleoptera identified from the Woolwich Manor Way site, Becton, London
+9 records from Numbers and dry weight of main macro-endofauna in surface sediments at Fladen Ground stations, North Sea (Table 3)
+10 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Taynish Woods SSSI
+1 records from A new species of Protearomyia (Diptera, Lonchaeidae) with a review of the genus in the Palearctic
+1 records from Scuttle flies (Diptera: Phoridae) reared from Spodoptera exigua (Hübner, 1808) (Lepidoptera: Noctuidae) in Iran
+1 records from The Rhyacophila fasciata Group in Europe: Rhyacophila fasciata Hagen 1859 and formerly synonymized species (Trichoptera: Rhyacophilidae), with new description of Rhyacophila fasciata and Rhyacophila septentrionis McLachlan 1865 (stat. prom.).
+1 records from Phylogenetic relationships within the Frankliniella genus-group based on morphology, with a revision of Iridothrips (Thysanoptera, Thripidae)
+1 records from Rubiaphis, a new aphid genus from the Altai Republic (Homoptera: Aphididae, Macrosiphini)
+1 records from A new species of Stenchaetothrips (Thysanoptera, Thripidae) from Bamboo, based on morphological and molecular data
+1 records from Key to Ptychopteridae (Diptera) larvae of Northern Europe, with notes on distribution and biology
+732 records from Craneflies of Ireland
+333 records from Grasshoppers, Crickets and Allied Insects (Orthoptera) of Ireland
+2 records from Diptera Collection of Museum and Institute of Zoology PAS
+38 records from Benthos counted on dredged samples during Valdivia cruise VA44
+1167 records from Woodmeadow Invertebrate Survey 2018
+1418 records from Rhinophoridae Recording Scheme - verified via iRecord
+1427 records from Dixidae (Diptera) records from Britain and Ireland to 1988
+1220 records from Outer Hebrides Insect Records from Literature
+3 records from Canadian National Collection of Insects, Arachnids, and Nematodes (CNC)
+1851 records from RHS Hemerocallis midge survey
+1046 records from Woodmeadow Invertebrate Survey 2015
+87 records from Western Palaearctic Ectoedemia (Zimmermannia) Hering and Ectoedemia Busck s. str. (Lepidoptera: Nepticulidae): five new species and new data on distribution, hostplants and recognition
+261 records from SNH Invertebrate Site Condition Monitoring 2015-16: Methven Woods SSSI
+28 records from Species Surveillance Project - NNR Priority Species
+1 records from Revision of the Australian planthopper genus Chidaea Emeljanov with a redescription of Cixius sidnicus Stål, 1859 (Hemiptera: Auchenorrhyncha: Fulgoromorpha: Cixiidae)
+1 records from A matrix-based revision of the genus Hypogena Dejean, 1834 (Coleoptera Tenebrionidae)
+1 records from Review of the tribes Sogdini and Leiodini from Japan and North Chishima Islands. Part II. Genera Hydnobius and Leiodes (Coleoptera: Leiodidae)
+21 records from North European gall-inducing Euura sawflies (Hymenoptera, Tenthredinidae, Nematinae)
+16 records from Revision of the stag beetle genus Ryssonotus MacLeay (Coleoptera: Lucanidae), with descriptions of a new genus and three new species
+23 records from Calliphoridae (Blowflies) of Ireland
+1 records from A photographic type catalogue of Platygastroidea (Insecta, Hymenoptera) in the Natural History Museum Vienna
+36 records from Wildlife Observations Bardon Hill 31.5.09
+189 records from Nezara viridula records held by the Royal Horticultural Society
+2 records from Generic key and catalogue of Mymaridae (Hymenoptera) of Mexico
+11 records from Caledonian Conservation Ltd Incidental Records 2014 onwards
+127 records from RISC Non-Native Species Records for Rhododendron Leafhopper
+1 records from Review Of The Genus Hinda Mulsant (Coleoptera, Coccinellidae, Hyperaspinae, Brachiacanthadini)
+3 records from 2009-2013 David Fenwick Cornwall Ad-hoc Rockpooling Sightings
+1 records from Review of the genera and subgenera of the subtribe Aspilotina (Hymenoptera, Braconidae, Alysiinae), with a new illustrated key
+1 records from A review of the Pseudomyrmex ferrugineus and Pseudomyrmex goeldii species groups: acacia-ants and relatives (Hymenoptera: Formicidae)
+1 records from The West Palaearctic Pseudodineura and Endophytus species (Hymenoptera, Tenthredinidae)
+66 records from SNH Invertebrate Site Condition Monitoring 2013/14: Whitlaw Mosses SSSI
+1 records from Revision of the genus Metura (Lepidoptera: Psychidae) with description of two new species
+1 records from The genus Liothrips (Thysanoptera, Phlaeothripidae) in Australia
+48 records from SNH Invertebrate Site Condition Monitoring 2015: Tweedwood - Gateheugh SSSI
+64 records from Coleoptera identified from the Borax Works, Norman Road site, Bexley, London
+87 records from Phenology Survey Outer Hebrides
+4 records from Review of the Swedish species of Ophion (Hymenoptera: Ichneumonidae: Ophioninae), with the description of 18 new species and an illustrated key to Swedish species
+243 records from Glasgow Museums Biological Records Centre: Coleoptera: Byyrhidae, Clambidae, Dascillidae &amp; Phalacridae
+49 records from LWIC - Common Blue Survey
+1 records from A study of the Iranian species of Choeras Mason (Hymenoptera: Braconidae: Microgastrinae), with the description of a new species
+2 records from False Blister Beetles (Oedemeridae) of Ireland
+2 records from A revision of Palaearctic Anthobium Leach, 1819 (Coleoptera: Staphylinidae Omaliinae: Anthophagini). V. Algidum, morosum and tectum groups, a new species of the fusculum group, and faunistic records
+33 records from Austrocnephia, new genus, for five species of ‘ Paracnephia’ (Diptera: Simuliidae), with a key to Australian black fly genera
+3 records from Three new species of Anacharis Dalman, 1823 (Hymenoptera: Figitidae), with revised taxonomy and distribution records of Palaearctic and Indomalayan species
+28 records from Revision Of The Australian Coccinellidae (Coleoptera). Genus Novius Mulsant Of Tribe Noviini
+1 records from Revised species definitions and nomenclature of the blue and purple / rose Cithaerias butterflies (Lepidoptera, Nymphalidae, Satyrinae)
+27 records from Systematic study of Duadicus Dallas, 1851 (Insecta: Hemiptera: Heteroptera: Acanthosomatidae: Blaudusinae: Blaudusini), including the description of a new species from Western Australia
+10 records from Therevidae of Ireland
+1 records from Butterflies (Lepidoptera: Papilionoidea) of Mount Kilimanjaro: Nymphalidae subfamilies Libytheinae, Danainae, Satyrinae and Charaxinae
+1 records from New records of Norwegian Psychodidae, with the first description of the female of Trichosepedon balkanicum (Krek, 1970) comb. nov.
+1 records from New data on the taxonomy, distribution and host plants of Australian Epermeniidae (Lepidoptera: Epermenioidea)
+53 records from SNH Invertebrate Site Condition Monitoring 2015: Maidens to Doonfoot SSSI
+64 records from City of Edinburgh Natural Heritage Service - Common Blue &amp; Six Spot Burnet Moth Survey
+4 records from On the dumping ground genus Scotaena Klug, 1810 (Hymenoptera: Tiphiidae: Thynninae): Phylogeny, taxonomy and geographic distribution
+1 records from Molecular evidence for deeper diversity in Australian Tanypodinae (Chironomidae): Yarrhpelopia and related new taxa
+1 records from Käfer aus Lichtfallenfängen in Conthey (VS) und in Seseglio (TI) (Coleoptera)
+1 records from A review of the genus Neogreenia MacGillivray (Hemiptera: Coccomorpha: Qinococcidae) with descriptions of two new species
+59 records from 2017 Onwards Rare Invertebrates in the Cairngorms Small Scabious Mining Bee Survey Data
+14 records from MH1
+42 records from Great British Bee Count 2015 - Stage 2 (records verified from photo)
+2 records from Revision of Embolemidae (Hymenoptera: Chrysidoidea) from the Middle East
+1 records from A review of the Margarodidae sensu stricto (Hemiptera: Coccomorpha) in China, with descriptions of three new species
+6 records from The extant species of the genus Omma Newman and description of Beutelius gen. nov. (Coleoptera: Archostemata: Ommatidae: Ommatinae)
+69 records from Brigham Young University Arthropod Museum
+3 records from Abundance and composition of meiobenthos in surface sediments at Fladen Ground stations in August 1975, North Sea (Table 4)
+2 records from Lance lacewings of the world (Neuroptera: Archeosmylidae, Osmylidae, Saucrosmylidae): review of living and fossil genera
+2 records from UJ Nature Education Centre - the Lepidoptera Collection
+3 records from Seasearch Marine Surveys in Wales
+34 records from C.P. Gillette Museum of Arthropod Diversity
+11 records from 2017 Onwards Rare Invertebrates in the Cairngorms Shining Guest Ant Survey Data
+105617 records from Diptera records from iRecord for families not covered by a recording scheme
+9015 records from NRW Regional Data: all taxa (excluding sensitive species), West Wales
+14 records from Biogeographic data from BODC - British Oceanographic Data Centre
+2 records from New and little known taxa of the order Orthoptera (Insecta) from the Upper Triassic and Lower Jurassic of England
+540583 records from Wider Countryside Butterfly Scheme (WCBS)
+3127 records from Montgomeryshire Wildlife Trust records held by BIS
+2 records from Pararhigognostis-a new genus for Plutella stichocentra Meyrick, 1932 (Lepidoptera, Plutellidae), with a redescription of its male and female genitalia
+2 records from Some techniques for the study of useful characters in the taxonomy of the genus Timarcha Samouelle, 1819 (Coleoptera, Chrysomelidae)
+1 records from Aphis species (Hemiptera, Aphididae) living on Mulinum (Apiaceae) in South America, with a description of a new species
+8090 records from Sheffield and Rotherham Wildlife Trust - Records
+2 records from UniLodz NHM Entomological Collection
+64345 records from Auchenorrhyncha Recording Scheme - records for UK verified via iRecord
+4 records from Seasearch Marine Surveys in Scotland
+74690 records from Butterflies of Northern Ireland
+2 records from Washington State University Collection
+40964 records from RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+93379 records from National Stag Beetle Surveys (Great Stag Hunts)
+1 records from The Diversity of Hornets in the Genus Vespa (Hymenoptera: Vespidae; Vespinae), Their Importance and Interceptions in the United States
+1 records from Dysaphis (Dysaphis) kadyrovi sp. nov. — a new aphid species (Hemiptera: Aphididae) from Tajikistan
+12 records from Ealing Wildlife Group 2024-2025 Brown Hairstreak surveys
+12 records from Coleoptera identified from the St. Paul's Academy site, Abbey Wood, London
+5 records from Taxonomic notes on West Palaearctic species of Lauxania Latreille, Sapromyza Fallén, Calliopum Strand and Minettia Robineau-Desvoidy, with a description of a new species of Minettia (Diptera, Acalyptrata: Lauxaniidae) from Morocco
+1 records from First records of the cremastocheiline genus Clinterocera Motschulsky, 1858 from the Indonesian island of Sulawesi, with description of a new species (Coleoptera: Scarabaeidae: Cetoniinae)
+478002 records from KiEco Freshwater Ecology: River Macroinvertebrates
+2 records from Australian National Wildlife Collection provider for OZCAM
+1 records from The fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+8 records from The Purdue Entomological Research Collection
+24974 records from Bob Merritt invertebrate records for VCs 72-75
+17 records from Insect specimens of Ryukyu University Museum (Fujukan)
+5 records from Naturalis Biodiversity Center (NL) - Odonata
+2 records from Tartu University fossil collections
+1 records from National Herbarium of Victoria (MEL) AVH data
+31 records from Naturalis Biodiversity Center (NL) - Paleontology
+17017 records from National Trust for Scotland Species Records
+2030 records from Mosquito Occurrence Dataset
+263722 records from UK Ladybird Survey data from iRecord
+74019 records from Trevor and Dilys Pendleton Eakring and Nottinghamshire Invertebrate Records
+1 records from ZMAA Insect collections of Åbo Akademi
+136 records from UCM Entomology Collection
+29 records from Zoologische Staatssammlung Muenchen - International Barcode of Life (iBOL) - Barcode of Life Project Specimen Data
+1 records from Invertebrates Collection of the Swedish Museum of Natural History
+7723 records from Dorset SSSI Species Records 1952 - 2004 (Natural England)
+14842 records from Merseyside BioBank Active Naturalists (unverified)
+50695 records from UK Cranefly Recording Scheme - records verified via iRecord
+3542 records from Hoverflies (Syrphidae) of Ireland
+4847 records from Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data
+6837 records from Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+33509 records from Longhorn beetle (Cerambycidae) data from iRecord
+45490 records from Merseyside BioBank (unverified)
+275160 records from All taxa records for Leicestershire and Rutland
+19 records from Coleoptera of R. Scholz Collection
+135 records from Records of Invasive Non Native Species held on the Cofnod database
+82012 records from Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+1 records from Animal Sound Archive
+182797 records from Soldierflies and Allies Recording Scheme - data verified via iRecord
+1 records from Academy of Natural Sciences of Philadelphia Vertebrate Paleontology Collection
+25697 records from Tachinid Recording Scheme - Tachinid fly records verified via iRecord
+10 records from Neuropteren Deutschlands (Neuropterida of Germany)
+6339 records from Casual records for Scottish Wildlife Trust reserves - Verified data
+13 records from Zoology (Museum of Evolution - Uppsala)
+1972 records from European Moth Nights
+315 records from The UK Archive for Marine Species and Habitats Data
+15376 records from Coccinellidae Data
+12500 records from Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Verified data
+95 records from Zooplankton studies in the Southern Bight of the North Sea between 1971 and 1974
+7195 records from Heleomyzid Recording Scheme - data verified via iRecord
+1 records from FBIP: IZIKO Hymenoptera collection
+21 records from Occurrence data of dragonflies available at the National Museums of Kenya's Natural History Collection, Invertebrates Zoology Section.
+5118 records from Oil Beetle Recording Scheme - records verified via iRecord
+6 records from Hymenoptera of J. Noskiewicz Collection
+111 records from ARC-PPRI: Chalcidoidea Collection (1900-2010)
+15964 records from Lepidoptera Records up to April 2010
+15423 records from UK Sarcophagidae Recording Scheme
+19 records from GB3D Fossil Types Online
+4938 records from SEWBReC Caddisflies (South East Wales)
+1 records from Carabidae of South Kuriles
+4467 records from RHS berberis sawfly (Arge berberidis) monitoring
+10 records from Dryinidae of the Oriental region (Hymenoptera: Chrysidoidea)
+1098 records from City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings
+5 records from Yorkshire Naturalists Union Marine and Coastal Section Records
+321 records from PondNet data 2012-2014
+2521 records from Glasgow Museums BRC: Hemiptera
+2255 records from Siphonaptera and Phthiraptera Recording Scheme - records verified via iRecord
+1 records from Type Specimen Database of Museum and Institute of Zoology PAS
+66 records from 2009 - ongoing The Marine Biological Association of the UK (MBA) Devon and Cornwall Bioblitz Surveys
+1653 records from Derbyshire Casual LEPIDOPTERA records - Casual records collated by Derby Museum
+1 records from Die Heteropterensammlung Ernst Heiss im Tiroler Landesmuseum Ferdinandeum. Teil V: Tingoidea, Familie Tingidae LAPORTE, 1832
+1 records from Systematics of the weevil genus &lt;i&gt; Mecinus &lt;/ i&gt; Germar, 1821 (Coleoptera: Curculionidae). I. Taxonomic treatment of the species
+258 records from Empididae of Ireland
+7 records from 2018 North Devon Coast Areas of Outstanding Natural Beauty Northam Burrows BioBlitz
+5400 records from HBRG P.F. Entwistle Colln and Notebooks Dataset
+2 records from Weevils (Curculionoidea) from the UWIZM Land Arthropod collection
+2 records from The Neotropical species of the genus Osoriellus FAGEL, 1959 (Coleoptera: Staphylinidae: Osoriinae)
+156 records from Revision of the Australian species of Figulus MacLeay, 1819 (Coleoptera: Lucanidae)
+352 records from Kelp Fly Recording Scheme - records verified via iRecord
+359 records from Glasgow Museums Biological Records Centre: Coleoptera: Monotomidae
+13 records from Revision of Australian Brachysandalus with the description of nine new species including one cavernicolous species (Hemiptera: Heteroptera: Reduviidae), and observations on male extragenital structure and leg teratology
+4116 records from Dipterists Forum: Field Week 2004 (Wiltshire)
+4 records from Specimen data of Stigmella species (Lepicoptera, Nepticulidae) feeding on Torminalis glaberrima (Rosaceae)
+185 records from Neuroptera collection of National Museum of Nature and Science
+128 records from SNH Invertebrate Site Condition Monitoring 2015-16: Den of Airlie SSSI
+368 records from Biological Recording in Scotland - Bumblebee Survey
+2 records from A revision of European species of the genus Tetrastichus Haliday (Hymenoptera: Eulophidae) using integrative taxonomy
+2342 records from Entomology Division, Yale Peabody Museum
+22 records from Queensland Museum provider for OZCAM
+1 records from European occurrence records of the Robinia herbivores Parectopa robiniella, Macrosaccus robiniella and Obolodiplosis robiniella compiled from literature records and personal observations
+1 records from Taxonomy of Morellia Robineau-Desvoidy (Diptera: Muscidae): revision of the subgenera Morellia s. str. and Parapyrellia Townsend
+65 records from A revision of the Australian species of the genus Melobasis Laporte &amp; Gory 1837 (Coleoptera: Buprestidae), Part 3 (Revision of the azureipennis, cupricollis, iridicolor and melanura species groups)
+23 records from TWIC General Records (2015 - present)
+2083865 records from Dragonfly records from the British Dragonfly Society Recording Scheme
+44 records from Palaeontological collection (PMO) at UiO NHM, Oslo
+55 records from Australian Diplectroninae reviewed (Insecta: Trichoptera), with description of 21 new species, most referred to a new genus
+26 records from Mosquitoes (Culicidae) of Ireland
+1 records from 2017 North Devon Area of Outstanding Natural Beauty (AONB) Combe Martin Devon Bioblitz
+235 records from Small Acalypterate Families Recording Scheme
+2 records from Ant type specimens (Hymenoptera, Formicidae) in the collection of Volodymyr Opanasovych Karawajew. Communication 1. Dorylinae, Poneromorpha and Pseudomyrmecinae
+14 records from Yorkshire Wildlife Trust - Records
+140 records from SNH Invertebrate Site Condition Monitoring 2015: Blind Moss SSSI
+2 records from The type specimens of sawflies (Hymenoptera: Symphyta) of the Museo Nacional de Ciencias Naturales, Madrid
+3 records from Revision of Holarctic Illidops Mason (Hymenoptera, Braconidae): A first step towards resolving a dark taxon and descriptions of three new species
+1 records from Zwicknia gen. n., a new genus for the Capnia bifrons species group, with descriptions of three new species based on morphology, drumming signals and molecular genetics, and a synopsis of the West Palaearctic and Nearctic genera of Capniidae (Plecoptera)
+1 records from Ájtte Collection
+7 records from Anymals+plants - Citizen Science Data
+12661 records from Orthoptera &amp; Allies: Records for Kent
+12088 records from Manchester Entomological Society: Diptera
+1 records from arim
+7 records from Hemiptera World (Luomus)
+3 records from New Brunswick Museum - Mollusca
+600 records from Stoneflies (Plecoptera) of Ireland
+8121 records from Riverfly Census - Aquatic invertebrate species occurrence, for the calculation of pressure biometric scores in English and Welsh rivers covering the period 2015 - 2018
+2 records from Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Entomology National Collection (MACNEn)
+9842 records from SEWBReC Grasshoppers, Bush-crickets and allies (South East Wales)
+1 records from Bombus of Canada
+293 records from Natalie Harmsworth's Records (2010-2019)
+29 records from Museo Nacional de Ciencias Naturales, Madrid. Colección de Tejidos y ADN
+91 records from NBMP Sunset-Sunrise Survey
+7407 records from Dipterists Forum: Field Week 2018 (Stoke)
+289497 records from National Trust Species Records
+182 records from TWIC Site Surveys (2010 - present)
+26 records from Formicidae Collection Univesity of Granada
+6435 records from Dipterists Forum: Field Week 2016 (Canterbury)
+13 records from Coleção de Phthiraptera do MZUSP
+7 records from Metagenome data from DNA stable isotope probing of Stiffkey saltmarsh sediment microcosms to investigate methanogenesis from choline
+6254 records from Sciomyzidae Recording Scheme - iRecord
+2 records from DASSH Data Archive Centre volunteer sightings records
+71 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Diptera_Tipulidae_Palearctic
+56 records from 2012-2014 Orkney Islands Council Marine Non-Native Species Monitoring Programme
+3 records from The Keiichi Omoto Butterfly Collection(Papilionidae), The University Museum, The University of Tokyo
+4994 records from Dipterists Forum - Field Week 1999 (North West England)
+2 records from Armas Järvelä's Lepidoptera Collection
+3268 records from Glasgow Museums BRC: Carabidae
+2370 records from Ben Eighe NNR invertebrate records compiled from SNH files
+604 records from City of Edinburgh Natural Heritage Service - Natural Heritage Service Data
+75 records from Tipi di Nymphalidae nella Collezione entomologica di lepidotteri di Roger Verity | Nymphalidae types in the Roger Verity's entomological collection of lepidopterans
+82 records from David Dodds Associates Ltd - Species Records
+432 records from Citizen Science Beetle Records For Ireland
+3383 records from Native Species Surveys Across Wales (1978 to 2006)
+2903 records from Dipterists Forum: Field Week 2021 (Falmouth)
+46 records from The Suguru Igarashi Insect Collection (Lepidoptera: Hesperiidae) of The University Museum, The University of Tokyo
+1 records from Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Lepidoptera
+4 records from Mines and galls (ZMUO)
+46 records from Benthos counted on dredged samples during Valdivia cruise VA53
+2353 records from DBRC Hymenoptera species records 1975 to 2015
+51 records from Odonata Collection
+13 records from East Lothian Council - Biodiversity Surveys
+13 records from Entomological Specimens of Museum of Nature and Human Activities, Hyogo Pref., Japan
+378 records from Field Museum of Natural History (Zoology) Insect, Arachnid and Myriapod Collection
+1 records from Palaeozoological Collections (PZ), Swedish Museum of Natural History (NRM)
+212 records from SysTax -  Zoological Collections
+4 records from Manx Biological Recording Partnership VERIFIED records loaded between 05/09/2019 and 24/01/2024
+171879 records from HBRG Insects Dataset Vol 1
+532305 records from Moths in Berkshire vice-county - records verified via iRecord
+13 records from Insect specimens in the Museum of Nature and Human Activities, Hyogo Prefecture, Japan
+59168 records from Chrysomelidae beetle data from iRecord
+2 records from Collections paléontologiques de l'Université Rennes 1
+27837 records from Records from iRecord not covered by a national recording scheme
+2906 records from Nottinghamshire Wildlife Trust - Records
+2322 records from Merseyside BioBank Active Naturalists (verified)
+6398 records from Radnorshire Wildlife Trust records held by BIS
+8 records from Invertebrata Collection of Institute of Systematics and Evolution of Animals
+29057 records from RHS rosemary beetle (Chrysolina americana) monitoring
+450 records from Insects and other arthropods collected and/or identified by Roel van Klink and Corinna Rickert
+6 records from ZFMK Orthoptera collection
+30 records from Cumbria Non Native Invasive Species
+3 records from Beetles (LSM)
+2 records from BCE butterfly data expert holiday data throughout Europe
+8169 records from NE Scotland other invertebrate records 1800-2010
+10487 records from Atomariine Beetle (Coleoptera) records for Britain and Ireland to 1992
+11 records from Coleoptera Mannerheim (Luomus) (CM)
+24 records from The genus Rhabdomastix Skuse in Australia (Diptera: Tipuloidea: Limoniidae)
+2 records from Contribution to the aphid fauna (Homoptera, Aphidinea) of the Taymyrsky Dolgano-Nenetsky District and the krai city of Norilsk, with descriptions of two new species of the genus Metopolophium
+55 records from Handsome Fungus Beetles (Endomychidae) of Ireland
+24 records from SNH Invertebrate Site Condition Monitoring 2013/14: Cadder Wilderness SSSI
+4 records from ' Monster Scydmaenus' of Australia: revision of subgenus Corbulifer Franz (Coleoptera: Staphylinidae: Scydmaeninae)
+1 records from Illuminating a Dark Taxon: Revision of European Trichacis Förster (Hymenoptera Platygastridae) reveals a glut of synonyms
+1 records from Cryptic species in the nuisance midge Polypedilum nubifer (Skuse) (Diptera: Chironomidae) and the status of Tripedilum Kieffer
+22 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Rhidorroch Woods SSSI
+11 records from SNH Invertebrate Site Condition Monitoring 2013/14: Dollar Glen SSSI
+1 records from Contributions to the knowledge of Dichelops Spinola: description of a new species of Dichelops (Diceraeus) and of the male of Dichelops (Prodichelops) divisus (Hemiptera: Heteroptera: Pentatomidae: Pentatominae: Carpocorini)
+1 records from A key to species of Nomada ruficornis species-group (Hymenoptera: Apidae) of South Korea, with descriptions of three new species
+1 records from Isle of Man historical wildlife records 1990 to 1994
+108180 records from Grasshopper and Cricket (Orthoptera) and related species records from Britain and Ireland to 2007
+94499 records from Weevil and Bark Beetle records via iRecord
+5 records from UCM Invertebrate Paleontology
+9 records from AM: Terrestrial Insect Collections (1896-2000)
+62427 records from Microlepidoptera of Glamorgan
+2 records from Botany (UPS)
+23 records from University of British Columbia - Spencer Entomological Collection (UBCZ)
+594 records from Endure – standardised invertebrate sampling in coastal blond dunes from the 2-seas region
+42876 records from Sawfly (Symphyta) records from iRecord
+9048 records from HBRG Insects Dataset Vol 2
+195 records from East Lothian Council Ranger Service Records
+7961 records from HBRG Richard Moore beetle records from Raasay Dataset
+7763 records from Mayfly (Ephemeroptera) records from Britain and Ireland, via iRecord
+7201 records from Records from the RHS insect reference collection
+464 records from North Merseyside Local Species Data (DEFRA Grant 23169)
+43399 records from Caddisfly (Trichoptera) records from Britain and Ireland, via iRecord
+768 records from Ireland's BioBlitz
+2 records from Siewierz Forest District Lepidoptera Collection
+2 records from Coleoptera of G. Polentz Collection
+73 records from Coleção Entomológica Padre Jesus Santiago Moure (DZUP) - Diptera
+36474 records from RHS Box tree moth (Cydalima perspectalis) monitoring
+90 records from Taxonomic Information System for the Belgian coastal area
+654 records from BioFresh Pond Data
+16 records from Lepidoptera specimen database of Japan
+1 records from Elsie Welter Natural History Museum of Concordia College
+1164 records from Stoke-on-Trent Environmental Survey results (1982-1984)
+15 records from 2023 DAERA Sediment infauna data
+32 records from MUST, Insecta
+175 records from Entomological collections, UiB
+4 records from BoBO - Botanic Garden and Botanical Museum Berlin Observations
+1 records from University of Nebraska State Museum, C.E. Bessey Herbarium - Bryophytes
+2508 records from Macroinvertebrate abundance in river biotopes across England and Wales
+1908 records from Borders Backyard Biodiversity
+1 records from BIOMÔR 4 The Outer Bristol Channel Marine Habitat Study
+2 records from Zoological Museum Amsterdam, University of Amsterdam (NL) - Diptera_Types
+1 records from ARC-PPRI: Collection of Southern African bees  (1800-2007)
+2 records from Information on the findings of staphylinid beetles (Coleoptera, Staphylinidae) in Ukraine
+2110 records from Orthoptera (and allies) records for Dumfries and Galloway
+3 records from The Hymenoptera collection (EY) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+19 records from The Diptera collection (ED) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+951 records from Invertebrate surveys of various ponds in Scotland between 2010 and 2015
+2728 records from Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Unassessed data
+1 records from ZMH Trichoptera collection
+2 records from Marine Life Survey Data (collected by volunteers) collated by MarLIN
+6 records from Laboratorio de Entomología y Control de Plagas del Instituto Cavanilles de Biodiversidad y Biología Evolutiva de la Universidad de Valencia: ENV
+9515 records from 2010-2013 Beetle Data from Machair LIFE+ Project Plots
+90 records from St Andrews BioBlitz 2015
+1 records from Fossil collection of University Museum Utrecht (UMU)
+12 records from Benthic bycatch from dredge surveys for seed mussel (Mytilus edilus) stock assessment, Outer Ards, Northern Ireland
+1 records from ZFMK Phtiraptera collection
+42 records from Glen Finglas Species  Records
+9 records from The Albert J. Cook Arthropod Research Collection
+1 records from Northern Territory Museum and Art Gallery provider for OZCAM
+169 records from SNH Invertebrate Site Condition Monitoring 2013/14: Cairngorms SSSI
+230499 records from Invertebrate Site Register - England 1738-2005
+2 records from Invertebrate Paleontology Division, Yale Peabody Museum
+1 records from EURISCO, The European Genetic Resources Search Catalogue
+4 records from Further revisions to the Palaearctic Andrena fauna (Hymenoptera: Andrenidae)
+30 records from CAS Entomology (ENT)
+25667 records from Northern Ireland Environment Agency (NIEA) Collated Species Records
+3 records from Hatikka.fi observations
+6 records from University of Hawaii Insect Museum
+2 records from RBINS DaRWIN
+18 records from Agri-Food and Biosciences Institute Marine Surveys
+2 records from Hymenoptera specimen database of Kyushu University
+72201 records from Insects Outer Hebrides
+52215 records from SEWBReC Diptera - True Flies (South East Wales)
+203 records from Florida State Collection of Arthropods
+218 records from INNS Data: All Taxa (West Wales)
+1 records from Tiroler Landesmuseum Ferdinandeum
+1938 records from Woodmeadow Invertebrate Survey 2017
+1970 records from Dipterists Forum: Field Week 1981 (Kent)
+572 records from Northumberland Wildlife Trust - Records
+20 records from Review of Gonatocerus (Hymenoptera: Mymaridae) in the Palaearctic region, with notes on extralimital distributions
+1 records from HBRG Highland Seashore Project Dataset
+4 records from National Marine Monitoring Programme data set
+12 records from Heteroptera of A. Wróblewski Collection
+1 records from Contribution to the knowledge of Limoniidae (Diptera: Tipuloidea): first records of 244 species from various European countries
+518 records from Casual records for Scottish Wildlife Trust reserves - Unassessed data
+158 records from Ants of Ireland
+9 records from 2014 Scottish Natural Heritage (SNH) site check survey of intertidal sediment flats of Loch Moidart, Lochaber
+427 records from SNH Invertebrate Site Condition Monitoring 2015-16: Morrich More SSSI
+24 records from The Wildlife Information Centre - BioBlitz Events
+12 records from ZMH Lepidoptera collection
+9 records from Morphological revision of the hyperdiverse Brueelia - complex (Insecta: Phthiraptera: Ischnocera: Philopteridae) with new taxa, checklists and generic key
+360 records from Ben Lui NNR invertebrate records compiled from SNH files
+15 records from 2018 Marine Biological Association of the UK (MBA) Yealm Bioblitz
+360 records from Mosquito Occurrences in the UK - Review of Literature
+1 records from Lothian Wildlife Information Centre - I-Spy 100 (public)
+413 records from Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017
+385 records from SNH Invertebrate Site Condition Monitoring 2013/14: Ben Lomond SSSI
+200 records from Dungflies (Scathophagidae) of Ireland
+1 records from An annotated and illustrated Type Catalogue of the predacious Shieldbugs (Hemiptera: Heteroptera: Pentatomidae: Asopinae) in the Collection of the Natural History Museum, London
+4 records from The checklist of the tribe Olethreutini (Lepidoptera: Tortricidae) of Qinghai-Tibet Plateau
+2 records from Harpactus Shuckard
+1 records from Spider wasps (Hymenoptera, Pompilidae) of the Republic of Khakassia, Eastern Siberia, Russia
+1 records from Catalogue of Egyptian Tephritoidea (Diptera: Schizophora: Acalyptratae)
+2 records from World Catalogue of the Druid Flies (Diptera: Schizophora: Clusiidae)
+53 records from Tortoise Beetles (Cassidinae) of Ireland
+14 records from Biological Recording in Scotland - Scotsman Wildlife Surveys
+320 records from Ants: Formica Exsecta Records from Abernethy RSPB
+127 records from SNH Invertebrate Site Condition Monitoring 2013/14: Glenmore Forest SSSI
+1 records from Clarification of the status of the types of Australian Melolonthini (Coleoptera Scarabaeidae: Melolonthinae) described before 1950
+1 records from In the footsteps of history: the bees of the genus Hylaeus Fabricius (Hymenoptera, Apoidea: Colletidae) collected by V. I. Roborovsky and P. K. Kozlov in Northwest China (1895 - 1926)
+1 records from Synonymy of Reikosiella Yoshimoto under Merostenus Walker (Hymenoptera: Chalcidoidea: Eupelmidae), with a checklist of world species and a revision of those species with brachypterous females
+1 records from Name-bearing types of butterflies (Lepidoptera, Papilionoidea), in the National Museums of Scotland, Edinburgh
+1 records from Updated catalogue of Pompilidae (Hymenoptera) in Iran
+5 records from Revision of the soft scale genus Paralecanium (Hemiptera: Coccomorpha: Coccidae) with the introduction of three new genera and twenty new species
+1 records from Anisopodidae and Thaumaleidae (Diptera: Nematocera) of Ireland
+2 records from The West Palaearctic Dineura species, focussing on Sweden (Hymenoptera, Tenthredinidae)
+1 records from Two new genera and five new species of Mugadina - like small grass cicadas (Hemiptera: Cicadidae: Cicadettini) from Central and Eastern Australia: comparative morphology, songs, behaviour and distributions
+1 records from A photographic catalog of Ceraphronoidea types at the Muséum national d’Histoire naturelle, Paris (MNHN), with comments on unpublished notes from Paul Dessart
+1 records from Australian Marsh Beetles (Coleoptera: Scirtidae). 9. The relations of Australasian Ypsiloncyphon species to their Asian congeners, additions, mainly to Petrocyphon and Prionocyphon, and a key to Australian genera of Scirtinae
+1 records from Lochetica ramii sp. nov. – a new species of Lochetica Kriechbaumer, 1892 (Hymenoptera, Ichneumonidae, Phygadeuontinae) from Finland, with a key to world species
+1 records from Nineteen new species of Megaselia Rondani (Diptera, Phoridae) from Denmark
+30 records from Site Condition Monitoring of dragonflies on Loch aí Mhuilinn NNR - 2002
+4 records from Arizona State University Hasbrouck Insect Collection
+1 records from Western Australian Museum provider for OZCAM
+981 records from Ron McBeath records (2010 - 2014)
+72 records from European stag beetle monitoring network: transect observations
+40 records from Invertebrates compiled by W.Block
+2 records from True Bugs (Hemiptera) from the UWIZM Land Arthropod collection
+6 records from 2006 BP Exploration and Production BP Exploration operating company Ltd. UKCS 9/23b Harding site survey May-June 2006 environmental report - Harding
+1 records from Species Occurrence Data from the Journals of William Brewster, 1886-1894
+12 records from Flies (Diptera) from the UWIZM Land Arthropod collection
+165 records from City of Edinburgh Natural Heritage Service - Historical Records
+1 records from 5062
+927 records from Invertebrate Data from Grazing Marshes East Sussex/South-west Kent
+349 records from Carrion Beetles of Ireland
+1252 records from SNH site condition monitoring of SSSIs for water beetles 2010
+36 records from Ecological surveys from Bardon Hill undertaken in the period 2000 to 2007
+72 records from Published ant (Hymenoptera: Formicidae) records from the island of Cyprus
+1069 records from Small Acalypterate Families Recording Scheme - records via iRecord
+1 records from World revision of Iteaphila with unbranched radial vein (Diptera: Empidoidea: Iteaphilidae)
+501 records from SNH Invertebrate Site Condition Monitoring 2015-16: Culbin Sands, Culbin Forest and Findhorn Bay SSSI
+362 records from Urban Roots Malls Mire Invertebrate Records 2014
+231 records from MoJ BioBlitz August 2018
+491 records from Hippoboscidae and Nycteribiidae Recording Scheme - records verified via iRecord
+452 records from JH1
+724 records from Weevils of Wales and England
+1 records from Taxonomic revision of Australian Pristoderus Hope (Coleoptera, Zopheridae)
+4 records from Revision of the Western Palaearctic Diplazontinae (Hymenoptera, Ichneumonidae)
+5 records from The genus Sphecodes Latreille 1804 (Hymenoptera: Apoidea: Halictidae) in Central Asia
+7 records from A taxonomic revision of the genus Asiobaccha Violovitsh (Diptera: Syrphidae)
+262 records from Diptera Records (West Wales)
+9 records from Review of the Palaearctic species of Ismaridae Thomson, 1858 (Hymenoptera: Diaprioidea)
+8 records from BioAcoustica: Wildlife Sounds Database
+11 records from Lacewings (Neuroptera) of Ireland
+59 records from HNCF BioBlitz and organized survey records from 2023 and 2025
+101 records from SNH Invertebrate Site Condition Monitoring 2013/14: Earlshall Muir SSSI
+5 records from New records of Philopterus (Ischnocera: Philopteridae) from Acrocephalidae and Locustellidae, with description of one new species from Regulidae
+28 records from Platypezidae of Ireland
+22 records from 2017 Onwards Muirkirk &amp; North Lowther Uplands SPA species records
+65 records from SNH Invertebrate Site Condition Monitoring 2013/14: Alvie SSSI
+140 records from SNH Invertebrate Site Condition Monitoring 2015: Carrick Ponds SSSI
+54 records from Table 1. Species richness and abundance of the benthic infauna of the North Sea, 1980-1985
+120 records from SNH Invertebrate Site Condition Monitoring of Beetle Assemblage Features 2015: Merrick Kells SSSI
+112 records from Deanophlebia: A new genus of south-eastern Australian mayflies and subsequent redefinition of the subgenus Nousia (Australonousia) (Ephemeroptera: Leptophlebiidae)
+103 records from Orthopteran Records (West Wales)
+5 records from The Empididae (Diptera) of Serbia: faunistic survey and description of a new Empis species
+2 records from A checklist of Leiodidae (Coleoptera: Staphylinoidea) of Iran
+52 records from New black fungus gnats (Diptera: Sciaridae) from Eastern Australia
+1 records from The green lacewings of Pakistan (Neuroptera: Chrysopidae): a faunal review with new records of genera and species
+4 records from Phylogeny of Corynoptera Winnertz and related genera, with the description of Claustropyga gen. nov. (Diptera, Sciaridae)
+2 records from Contributions to the taxonomy, identification, and biogeography of Thaumatogelis Schwarz, 1995 (Hymenoptera: Ichneumonidae)
+50 records from Site Condition Monitoring of dragonflies on Loch aí Mhuilinn SSSI - 2016
+6 records from The Afrotropical and West-Palaearctic species of Ecrizotes Förster (Hymenoptera: Pirenidae)
+17 records from Bohemannia auriciliella (Nepticulidae) specimen data
+3 records from An annotated catalogue of the Iranian Microtypinae and Rogadinae (Hymenoptera: Braconidae)
+1 records from Checklist of Omophoita Chevrolat, 1836 (Coleoptera: Chrysomelidae: Galerucinae: Alticini) and diagnoses for some species from southern Brazil: notes on the taxonomic history, redescriptions and new records
+1 records from Redescriptions of three species in the louse genus Myrsidea (Insecta: Phthiraptera: Amblycera)
+24 records from City of Edinburgh Natural Heritage Service - Small Pearl-bordered Fritillary Survey
+1 records from The Goniodidae (Phthiraptera: Ischnocera) of peafowl (Aves: Galliformes: Pavo), with description of a new genus
+1 records from UWS Flanders Moss Meiofauna Records 2015
+20 records from Field cricket (Gryllus campestris) site summary records, 2011-2021
+11 records from Tyne River Macroinvertebrates 2020
+1 records from Revision of the Hylaea fasciaria (Linnaeus, 1758) species group in the western Palaearctic (Lepidoptera: Geometridae, Ennominae)
+1 records from A new species of Eurypeza Lacroix, 2006 (Coleoptera: Scarabaeidae: Melolonthinae: Tanyproctini) from Kenya
+
+        </abstract>
+        <contact>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2026-02-10T16:40:28Z</dateStamp>
+                <citation identifier="0006025-260208012135463">GBIF Occurrence Download 0006025-260208012135463</citation>
+                <physical>
+                    <objectName>Darwin Core Archive</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Darwin Core Archive</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://api.gbif.org/v1/occurrence/download/request/0006025-260208012135463.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
